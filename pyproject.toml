@@ -1,0 +1,24 @@
+[project]
+name = "lotus-plots"
+version = "0.1.0"
+description = "Plots of NPClassifier chemistry versus organism taxonomy in LOTUS (visualisation only)"
+readme = "README.md"
+authors = [
+    { name = "Marco Visani", email = "92217074+mvisani@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+    "polars>=2.1.0",
+    "pyarrow>=26.0.0",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+lotus-plots = "lotus_plots:main"
+
+[build-system]
+requires = ["uv_build>=0.12.19,<0.13.0"]
+build-backend = "uv_build"

@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Downloaded LOTUS export
+data/
+*.csv.gz
+
+# Generated figures and tables (rebuild with `uv run lotus-plots`)
+output/
