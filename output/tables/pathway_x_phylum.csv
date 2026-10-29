@@ -1,0 +1,225 @@
+npclassifier_pathway,domain,kingdom,phylum,molecules
+Terpenoids,Eukaryota,Archaeplastida,Streptophyta,46724
+Shikimates and Phenylpropanoids,Eukaryota,Archaeplastida,Streptophyta,25762
+Alkaloids,Eukaryota,Archaeplastida,Streptophyta,12350
+Polyketides,Eukaryota,Fungi,Ascomycota,8363
+Polyketides,Eukaryota,Archaeplastida,Streptophyta,6157
+Terpenoids,Eukaryota,Fungi,Ascomycota,4879
+Polyketides,Bacteria,Bacteria,Actinobacteria,4832
+Fatty acids,Eukaryota,Archaeplastida,Streptophyta,4625
+Terpenoids,Eukaryota,Fungi,Basidiomycota,3528
+Alkaloids,Eukaryota,Fungi,Ascomycota,3221
+Terpenoids,Eukaryota,Metazoa,Cnidaria,2615
+Amino acids and Peptides,Eukaryota,Fungi,Ascomycota,2597
+Terpenoids,Eukaryota,Metazoa,Porifera,2252
+Amino acids and Peptides,Bacteria,Bacteria,Actinobacteria,2192
+Alkaloids,Bacteria,Bacteria,Actinobacteria,1904
+Shikimates and Phenylpropanoids,Eukaryota,Fungi,Ascomycota,1759
+Amino acids and Peptides,Bacteria,Bacteria,Cyanobacteria,1667
+Amino acids and Peptides,Eukaryota,Archaeplastida,Streptophyta,1530
+Alkaloids,Eukaryota,Metazoa,Porifera,1242
+Amino acids and Peptides,Bacteria,Bacteria,Proteobacteria,1135
+Polyketides,Bacteria,Bacteria,Proteobacteria,843
+Terpenoids,Eukaryota,Archaeplastida,Rhodophyta,798
+Terpenoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],789
+Polyketides,Bacteria,Bacteria,Cyanobacteria,752
+Alkaloids,Eukaryota,Metazoa,Chordata,719
+Terpenoids,Bacteria,Bacteria,Actinobacteria,714
+Alkaloids,Bacteria,Bacteria,Proteobacteria,703
+Fatty acids,Eukaryota,Fungi,Ascomycota,701
+Fatty acids,Eukaryota,Metazoa,Porifera,672
+Terpenoids,Eukaryota,Metazoa,Mollusca,628
+Fatty acids,Eukaryota,Metazoa,Chordata,615
+Polyketides,Eukaryota,Fungi,Basidiomycota,608
+Terpenoids,Eukaryota,Metazoa,Chordata,606
+Terpenoids,Eukaryota,Metazoa,Arthropoda,599
+Polyketides,Eukaryota,Metazoa,Porifera,596
+Carbohydrates,Bacteria,Bacteria,Actinobacteria,560
+Shikimates and Phenylpropanoids,Eukaryota,Fungi,Basidiomycota,556
+Carbohydrates,Eukaryota,Archaeplastida,Streptophyta,491
+Shikimates and Phenylpropanoids,Bacteria,Bacteria,Actinobacteria,482
+Amino acids and Peptides,Eukaryota,Metazoa,Chordata,481
+Terpenoids,Eukaryota,Metazoa,Echinodermata,453
+Fatty acids,Bacteria,Bacteria,Actinobacteria,446
+Amino acids and Peptides,Bacteria,Bacteria,Firmicutes,428
+Alkaloids,Eukaryota,Fungi,Basidiomycota,418
+Amino acids and Peptides,Eukaryota,Metazoa,Porifera,417
+Polyketides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],412
+Fatty acids,Eukaryota,Metazoa,Arthropoda,374
+Alkaloids,Eukaryota,Metazoa,Arthropoda,356
+Fatty acids,Eukaryota,Fungi,Basidiomycota,350
+Fatty acids,Eukaryota,Metazoa,Nematoda,347
+Carbohydrates,Bacteria,Bacteria,Proteobacteria,338
+Terpenoids,Bacteria,Bacteria,Proteobacteria,308
+Amino acids and Peptides,Eukaryota,Fungi,Basidiomycota,307
+Fatty acids,Bacteria,Bacteria,Proteobacteria,287
+Terpenoids,Eukaryota,Archaeplastida,Chlorophyta,278
+Fatty acids,Eukaryota,Archaeplastida,Rhodophyta,274
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Arthropoda,273
+Alkaloids,Bacteria,Bacteria,Cyanobacteria,266
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Chordata,219
+Polyketides,Eukaryota,Metazoa,Mollusca,213
+Carbohydrates,Eukaryota,Metazoa,Chordata,209
+Polyketides,Bacteria,Bacteria,Firmicutes,202
+Shikimates and Phenylpropanoids,Bacteria,Bacteria,Proteobacteria,185
+Fatty acids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],182
+Fatty acids,Eukaryota,Metazoa,Cnidaria,159
+Polyketides,Eukaryota,Metazoa,Arthropoda,139
+Terpenoids,Eukaryota,Fungi,Fungi [no phylum],139
+Alkaloids,Eukaryota,Metazoa,Mollusca,138
+Carbohydrates,Eukaryota,Fungi,Ascomycota,136
+Terpenoids,Bacteria,Bacteria,Cyanobacteria,134
+Fatty acids,Eukaryota,Metazoa,Echinodermata,128
+Fatty acids,Bacteria,Bacteria,Cyanobacteria,126
+Polyketides,Eukaryota,Archaeplastida,Rhodophyta,125
+Polyketides,Eukaryota,Metazoa,Chordata,124
+Amino acids and Peptides,Eukaryota,Metazoa,Nematoda,122
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Porifera,121
+Amino acids and Peptides,Eukaryota,Metazoa,Arthropoda,120
+Alkaloids,Eukaryota,Metazoa,Bryozoa,116
+Alkaloids,Eukaryota,Metazoa,Cnidaria,114
+Carbohydrates,Eukaryota,Metazoa,Nematoda,107
+Fatty acids,Eukaryota,Archaeplastida,Chlorophyta,105
+Amino acids and Peptides,Eukaryota,Metazoa,Mollusca,104
+Shikimates and Phenylpropanoids,Eukaryota,Archaeplastida,Rhodophyta,98
+Terpenoids,Eukaryota,Metazoa,Metazoa [no phylum],97
+Alkaloids,Eukaryota,Archaeplastida,Rhodophyta,95
+Alkaloids,Bacteria,Bacteria,Firmicutes,95
+Shikimates and Phenylpropanoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],93
+Alkaloids,Eukaryota,Metazoa,Nematoda,89
+Fatty acids,Eukaryota,Metazoa,Mollusca,79
+Carbohydrates,Eukaryota,Fungi,Basidiomycota,73
+Shikimates and Phenylpropanoids,Bacteria,Bacteria,Cyanobacteria,67
+Carbohydrates,Bacteria,Bacteria,Firmicutes,66
+Fatty acids,Bacteria,Bacteria,Firmicutes,65
+Shikimates and Phenylpropanoids,Bacteria,Bacteria,Firmicutes,64
+Polyketides,Eukaryota,Metazoa,Cnidaria,63
+Terpenoids,Bacteria,Bacteria,Firmicutes,62
+Alkaloids,Eukaryota,Other eukaryotes,Amoebozoa,58
+Polyketides,Eukaryota,Metazoa,Echinodermata,57
+Fatty acids,Bacteria,Bacteria,Bacteroidetes,56
+Polyketides,Eukaryota,Other eukaryotes,Amoebozoa,55
+Fatty acids,Eukaryota,Fungi,Fungi [no phylum],51
+Amino acids and Peptides,Eukaryota,Archaeplastida,Rhodophyta,44
+Amino acids and Peptides,Bacteria,Bacteria,Bacteroidetes,43
+Terpenoids,Bacteria,Bacteria,Bacteroidetes,43
+Alkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],43
+Terpenoids,Eukaryota,Metazoa,Bryozoa,42
+Terpenoids,Eukaryota,Other eukaryotes,Euglenida,42
+Fatty acids,Eukaryota,Metazoa,Annelida,41
+Terpenoids,Eukaryota,Other eukaryotes,Bacillariophyta,41
+Alkaloids,Eukaryota,Fungi,Fungi [no phylum],40
+Amino acids and Peptides,Eukaryota,Archaeplastida,Chlorophyta,39
+Carbohydrates,Eukaryota,Metazoa,Arthropoda,39
+Alkaloids,Bacteria,Bacteria,Bacteroidetes,38
+Alkaloids,Eukaryota,Archaeplastida,Chlorophyta,35
+Fatty acids,Eukaryota,Metazoa,Metazoa [no phylum],34
+Polyketides,Eukaryota,Archaeplastida,Chlorophyta,34
+Carbohydrates,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],33
+Amino acids and Peptides,Eukaryota,Fungi,Fungi [no phylum],33
+Polyketides,Eukaryota,Metazoa,Bryozoa,32
+Amino acids and Peptides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],32
+Polyketides,Bacteria,Bacteria,Bacteroidetes,31
+Carbohydrates,Eukaryota,Archaeplastida,Rhodophyta,31
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Nematoda,31
+Carbohydrates,Bacteria,Bacteria,Cyanobacteria,31
+Polyketides,Eukaryota,Other eukaryotes,Ciliophora,30
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Cnidaria,29
+Terpenoids,Eukaryota,Metazoa,Annelida,29
+Carbohydrates,Eukaryota,Archaeplastida,Chlorophyta,27
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Mollusca,26
+Shikimates and Phenylpropanoids,Eukaryota,Fungi,Fungi [no phylum],25
+Shikimates and Phenylpropanoids,Eukaryota,Archaeplastida,Chlorophyta,25
+Polyketides,Eukaryota,Metazoa,Metazoa [no phylum],25
+Alkaloids,Eukaryota,Metazoa,Hemichordata,23
+Amino acids and Peptides,Eukaryota,Metazoa,Echinodermata,22
+Terpenoids,Eukaryota,Metazoa,Nematoda,22
+Shikimates and Phenylpropanoids,Eukaryota,Other eukaryotes,Amoebozoa,22
+Amino acids and Peptides,Eukaryota,Metazoa,Cnidaria,21
+Polyketides,Eukaryota,Fungi,Fungi [no phylum],20
+Terpenoids,Eukaryota,Metazoa,Hemichordata,20
+Carbohydrates,Eukaryota,Metazoa,Porifera,20
+Terpenoids,Eukaryota,Other eukaryotes,Amoebozoa,19
+Terpenoids,Archaea,Archaea,Euryarchaeota,19
+Alkaloids,Eukaryota,Metazoa,Annelida,18
+Fatty acids,Eukaryota,Other eukaryotes,Amoebozoa,18
+Alkaloids,Eukaryota,Metazoa,Echinodermata,18
+Fatty acids,Eukaryota,Other eukaryotes,Bacillariophyta,17
+Terpenoids,Bacteria,Bacteria,Deinococcus-Thermus,17
+Fatty acids,Archaea,Archaea,Euryarchaeota,17
+Alkaloids,Archaea,Archaea,Euryarchaeota,16
+Amino acids and Peptides,Eukaryota,Metazoa,Hemichordata,16
+Alkaloids,Eukaryota,Metazoa,Metazoa [no phylum],14
+Terpenoids,Eukaryota,Other eukaryotes,Ciliophora,14
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Echinodermata,13
+Carbohydrates,Eukaryota,Metazoa,Echinodermata,12
+Shikimates and Phenylpropanoids,Bacteria,Bacteria,Bacteroidetes,11
+Terpenoids,Eukaryota,Other eukaryotes,Foraminifera,11
+Polyketides,Eukaryota,Metazoa,Nematoda,11
+Carbohydrates,Eukaryota,Metazoa,Mollusca,11
+Alkaloids,Bacteria,Bacteria,Deinococcus-Thermus,10
+Shikimates and Phenylpropanoids,Eukaryota,Fungi,Glomeromycota,9
+Terpenoids,Eukaryota,Metazoa,Platyhelminthes,8
+Amino acids and Peptides,Eukaryota,Other eukaryotes,Amoebozoa,8
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Annelida,7
+Alkaloids,Eukaryota,Other eukaryotes,Euglenida,7
+Terpenoids,Archaea,Archaea,Crenarchaeota,7
+Alkaloids,Eukaryota,Other eukaryotes,Ciliophora,7
+Alkaloids,Bacteria,Bacteria,Bacteria [no phylum],6
+Terpenoids,Eukaryota,Other eukaryotes,Cryptophyceae,6
+Terpenoids,Bacteria,Bacteria,Chlorobi,6
+Amino acids and Peptides,Eukaryota,Metazoa,Metazoa [no phylum],5
+Alkaloids,Eukaryota,Metazoa,Platyhelminthes,5
+Fatty acids,Bacteria,Bacteria,Bacteria [no phylum],5
+Fatty acids,Bacteria,Bacteria,Deinococcus-Thermus,5
+Carbohydrates,Eukaryota,Metazoa,Cnidaria,4
+Terpenoids,Bacteria,Bacteria,Chloroflexi,4
+Amino acids and Peptides,Archaea,Archaea,Euryarchaeota,4
+Terpenoids,Bacteria,Bacteria,Verrucomicrobia,4
+Fatty acids,Eukaryota,Metazoa,Bryozoa,4
+Fatty acids,Eukaryota,Metazoa,Brachiopoda,4
+Fatty acids,Eukaryota,Metazoa,Platyhelminthes,4
+Polyketides,Eukaryota,Other eukaryotes,Bacillariophyta,4
+Shikimates and Phenylpropanoids,Eukaryota,Other eukaryotes,Ciliophora,4
+Carbohydrates,Eukaryota,Fungi,Fungi [no phylum],4
+Polyketides,Eukaryota,Metazoa,Annelida,4
+Amino acids and Peptides,Eukaryota,Other eukaryotes,Euglenida,3
+Alkaloids,Eukaryota,Other eukaryotes,Cryptophyceae,3
+Polyketides,Eukaryota,Fungi,Glomeromycota,3
+Amino acids and Peptides,Eukaryota,Metazoa,Annelida,3
+Alkaloids,Bacteria,Bacteria,Chloroflexi,3
+Polyketides,Bacteria,Bacteria,Bacteria [no phylum],3
+Carbohydrates,Bacteria,Bacteria,Bacteroidetes,2
+Alkaloids,Eukaryota,Metazoa,Nemertea,2
+Alkaloids,Eukaryota,Metazoa,Ctenophora,2
+Alkaloids,Archaea,Archaea,Crenarchaeota,2
+Polyketides,Eukaryota,Archaeplastida,Archaeplastida [no phylum],2
+Amino acids and Peptides,Eukaryota,Metazoa,Bryozoa,2
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Hemichordata,2
+Fatty acids,Bacteria,Bacteria,Planctomycetes,2
+Carbohydrates,Eukaryota,Metazoa,Annelida,2
+Amino acids and Peptides,Eukaryota,Metazoa,Platyhelminthes,2
+Carbohydrates,Bacteria,Bacteria,Tenericutes,2
+Polyketides,Archaea,Archaea,Euryarchaeota,2
+Alkaloids,Bacteria,Bacteria,Chlorobi,2
+Carbohydrates,Bacteria,Bacteria,Planctomycetes,1
+Polyketides,Bacteria,Bacteria,Chloroflexi,1
+Fatty acids,Eukaryota,Other eukaryotes,Apicomplexa,1
+Amino acids and Peptides,Eukaryota,Other eukaryotes,Bacillariophyta,1
+Carbohydrates,Archaea,Archaea,Crenarchaeota,1
+Polyketides,Eukaryota,Metazoa,Hemichordata,1
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,Bryozoa,1
+Fatty acids,Eukaryota,Other eukaryotes,Euglenida,1
+Terpenoids,Bacteria,Bacteria,Tenericutes,1
+Terpenoids,Bacteria,Bacteria,Bacteria [no phylum],1
+Carbohydrates,Bacteria,Bacteria,Spirochaetae,1
+Carbohydrates,Bacteria,Bacteria,Chlorobi,1
+Terpenoids,Bacteria,Bacteria,Spirochaetae,1
+Carbohydrates,Archaea,Archaea,Euryarchaeota,1
+Carbohydrates,Bacteria,Bacteria,Deinococcus-Thermus,1
+Fatty acids,Bacteria,Bacteria,Chloroflexi,1
+Alkaloids,Eukaryota,Other eukaryotes,Cercozoa,1
+Shikimates and Phenylpropanoids,Bacteria,Bacteria,Chloroflexi,1
+Carbohydrates,Bacteria,Bacteria,Bacteria [no phylum],1
+Terpenoids,Eukaryota,Archaeplastida,Archaeplastida [no phylum],1
+Amino acids and Peptides,Bacteria,Bacteria,Chloroflexi,1

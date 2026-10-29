@@ -1,0 +1,1184 @@
+npclassifier_superclass,domain,kingdom,phylum,molecules
+Triterpenoids,Eukaryota,Archaeplastida,Streptophyta,11920
+Sesquiterpenoids,Eukaryota,Archaeplastida,Streptophyta,11406
+Diterpenoids,Eukaryota,Archaeplastida,Streptophyta,10405
+Flavonoids,Eukaryota,Archaeplastida,Streptophyta,9143
+Steroids,Eukaryota,Archaeplastida,Streptophyta,4909
+Tryptophan alkaloids,Eukaryota,Archaeplastida,Streptophyta,3513
+Monoterpenoids,Eukaryota,Archaeplastida,Streptophyta,3485
+Lignans,Eukaryota,Archaeplastida,Streptophyta,2936
+Tyrosine alkaloids,Eukaryota,Archaeplastida,Streptophyta,2845
+Isoflavonoids,Eukaryota,Archaeplastida,Streptophyta,2557
+Coumarins,Eukaryota,Archaeplastida,Streptophyta,2346
+Phenylpropanoids (C6-C3),Eukaryota,Archaeplastida,Streptophyta,1972
+Fatty acyls,Eukaryota,Archaeplastida,Streptophyta,1968
+Pseudoalkaloids,Eukaryota,Archaeplastida,Streptophyta,1938
+Phenolic acids (C6-C1),Eukaryota,Archaeplastida,Streptophyta,1754
+Diterpenoids,Eukaryota,Metazoa,Cnidaria,1604
+Macrolides,Bacteria,Bacteria,Actinobacteria,1567
+Oligopeptides,Bacteria,Bacteria,Cyanobacteria,1563
+Sesquiterpenoids,Eukaryota,Fungi,Ascomycota,1543
+Polycyclic aromatic polyketides,Bacteria,Bacteria,Actinobacteria,1384
+Cyclic polyketides,Eukaryota,Fungi,Ascomycota,1324
+Aromatic polyketides,Eukaryota,Fungi,Ascomycota,1286
+Xanthones,Eukaryota,Archaeplastida,Streptophyta,1276
+Triterpenoids,Eukaryota,Fungi,Basidiomycota,1240
+Meroterpenoids,Eukaryota,Fungi,Ascomycota,1236
+Oligopeptides,Bacteria,Bacteria,Actinobacteria,1207
+Meroterpenoids,Eukaryota,Archaeplastida,Streptophyta,1145
+Lysine alkaloids,Eukaryota,Archaeplastida,Streptophyta,1132
+Sesquiterpenoids,Eukaryota,Fungi,Basidiomycota,1129
+Oligopeptides,Eukaryota,Fungi,Ascomycota,1060
+Stilbenoids,Eukaryota,Archaeplastida,Streptophyta,1024
+Peptide alkaloids,Eukaryota,Fungi,Ascomycota,992
+Ornithine alkaloids,Eukaryota,Archaeplastida,Streptophyta,970
+Chromanes,Eukaryota,Fungi,Ascomycota,917
+Naphthalenes,Eukaryota,Archaeplastida,Streptophyta,902
+Fatty esters,Eukaryota,Archaeplastida,Streptophyta,895
+Diterpenoids,Eukaryota,Fungi,Ascomycota,871
+Anthranilic acid alkaloids,Eukaryota,Archaeplastida,Streptophyta,871
+Polycyclic aromatic polyketides,Eukaryota,Archaeplastida,Streptophyta,865
+Fatty Acids and Conjugates,Eukaryota,Archaeplastida,Streptophyta,836
+Naphthalenes,Eukaryota,Fungi,Ascomycota,786
+Phloroglucinols,Eukaryota,Archaeplastida,Streptophyta,746
+Oligopeptides,Bacteria,Bacteria,Proteobacteria,730
+Aromatic polyketides,Eukaryota,Archaeplastida,Streptophyta,702
+Coumarins,Eukaryota,Fungi,Ascomycota,631
+Pseudoalkaloids,Eukaryota,Fungi,Ascomycota,616
+Tryptophan alkaloids,Eukaryota,Fungi,Ascomycota,611
+Polycyclic aromatic polyketides,Eukaryota,Fungi,Ascomycota,587
+Diterpenoids,Eukaryota,Metazoa,Porifera,574
+Steroids,Eukaryota,Metazoa,Porifera,569
+Small peptides,Eukaryota,Archaeplastida,Streptophyta,536
+Nicotinic acid alkaloids,Eukaryota,Archaeplastida,Streptophyta,536
+Phenanthrenoids,Eukaryota,Archaeplastida,Streptophyta,533
+Apocarotenoids,Eukaryota,Archaeplastida,Streptophyta,530
+Steroids,Eukaryota,Metazoa,Cnidaria,506
+Linear polyketides,Eukaryota,Fungi,Ascomycota,502
+Chromanes,Eukaryota,Archaeplastida,Streptophyta,495
+Phenylethanoids (C6-C2),Eukaryota,Archaeplastida,Streptophyta,488
+Diarylheptanoids,Eukaryota,Archaeplastida,Streptophyta,484
+Macrolides,Eukaryota,Fungi,Ascomycota,474
+Linear polyketides,Eukaryota,Archaeplastida,Streptophyta,456
+Small peptides,Bacteria,Bacteria,Actinobacteria,449
+Xanthones,Eukaryota,Fungi,Ascomycota,441
+Tryptophan alkaloids,Bacteria,Bacteria,Actinobacteria,439
+Sesterterpenoids,Eukaryota,Metazoa,Porifera,423
+Oligopeptides,Eukaryota,Archaeplastida,Streptophyta,413
+Sesquiterpenoids,Eukaryota,Metazoa,Cnidaria,397
+Meroterpenoids,Eukaryota,Fungi,Basidiomycota,385
+Linear polyketides,Bacteria,Bacteria,Actinobacteria,370
+Anthranilic acid alkaloids,Bacteria,Bacteria,Actinobacteria,363
+Sesquiterpenoids,Eukaryota,Archaeplastida,Rhodophyta,356
+Cyclic polyketides,Eukaryota,Archaeplastida,Streptophyta,341
+Fatty Acids and Conjugates,Eukaryota,Metazoa,Porifera,333
+Steroids,Eukaryota,Metazoa,Chordata,333
+Oligopeptides,Bacteria,Bacteria,Firmicutes,327
+Small peptides,Eukaryota,Fungi,Ascomycota,324
+Steroids,Eukaryota,Fungi,Ascomycota,324
+Naphthalenes,Bacteria,Bacteria,Actinobacteria,319
+Anthranilic acid alkaloids,Eukaryota,Fungi,Ascomycota,315
+Saccharides,Eukaryota,Archaeplastida,Streptophyta,309
+Steroids,Eukaryota,Metazoa,Echinodermata,306
+Steroids,Eukaryota,Fungi,Basidiomycota,299
+Oligopeptides,Eukaryota,Metazoa,Porifera,289
+Triterpenoids,Eukaryota,Fungi,Ascomycota,280
+Tryptophan alkaloids,Eukaryota,Metazoa,Porifera,270
+Diterpenoids,Eukaryota,Fungi,Basidiomycota,270
+Phenolic acids (C6-C1),Eukaryota,Fungi,Ascomycota,262
+Diterpenoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],260
+Sesquiterpenoids,Eukaryota,Metazoa,Porifera,258
+Fatty Acids and Conjugates,Eukaryota,Fungi,Ascomycota,257
+Peptide alkaloids,Bacteria,Bacteria,Actinobacteria,256
+Peptide alkaloids,Eukaryota,Archaeplastida,Streptophyta,253
+Cyclic polyketides,Bacteria,Bacteria,Actinobacteria,236
+Small peptides,Bacteria,Bacteria,Proteobacteria,231
+Oligopeptides,Eukaryota,Metazoa,Chordata,228
+Small peptides,Eukaryota,Metazoa,Chordata,223
+Phloroglucinols,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],216
+Fatty acyl glycosides,Eukaryota,Metazoa,Nematoda,211
+Nicotinic acid alkaloids,Eukaryota,Fungi,Ascomycota,210
+Tryptophan alkaloids,Eukaryota,Metazoa,Chordata,208
+Glycerolipids,Eukaryota,Archaeplastida,Streptophyta,208
+Fatty amides,Eukaryota,Archaeplastida,Streptophyta,205
+Nucleosides,Bacteria,Bacteria,Actinobacteria,205
+Meroterpenoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],201
+Fatty acyls,Eukaryota,Metazoa,Arthropoda,200
+Triterpenoids,Eukaryota,Metazoa,Porifera,199
+Linear polyketides,Eukaryota,Metazoa,Porifera,195
+Diphenyl ethers (DPEs),Eukaryota,Fungi,Ascomycota,190
+Diterpenoids,Eukaryota,Metazoa,Mollusca,188
+Histidine alkaloids,Eukaryota,Metazoa,Porifera,187
+Amino acid glycosides,Eukaryota,Archaeplastida,Streptophyta,186
+Macrolides,Bacteria,Bacteria,Proteobacteria,175
+Sesquiterpenoids,Eukaryota,Metazoa,Mollusca,173
+Fatty acyls,Eukaryota,Fungi,Ascomycota,171
+Fatty esters,Eukaryota,Metazoa,Chordata,171
+Small peptides,Eukaryota,Fungi,Basidiomycota,169
+Sesquiterpenoids,Bacteria,Bacteria,Actinobacteria,168
+Linear polyketides,Bacteria,Bacteria,Proteobacteria,162
+Carotenoids (C40),Eukaryota,Archaeplastida,Streptophyta,161
+Tryptophan alkaloids,Bacteria,Bacteria,Proteobacteria,160
+Diterpenoids,Eukaryota,Archaeplastida,Rhodophyta,155
+Fatty Acids and Conjugates,Eukaryota,Metazoa,Chordata,151
+Diterpenoids,Bacteria,Bacteria,Actinobacteria,149
+Tetramate alkaloids,Eukaryota,Fungi,Ascomycota,146
+Fatty Acids and Conjugates,Bacteria,Bacteria,Actinobacteria,143
+Polyols,Bacteria,Bacteria,Actinobacteria,139
+Saccharides,Bacteria,Bacteria,Actinobacteria,135
+Saccharides,Bacteria,Bacteria,Proteobacteria,134
+Styrylpyrones,Eukaryota,Archaeplastida,Streptophyta,133
+Fatty acyls,Eukaryota,Metazoa,Porifera,132
+Polyethers,Bacteria,Bacteria,Actinobacteria,130
+Terphenyls,Eukaryota,Fungi,Basidiomycota,130
+Flavonoids,Eukaryota,Metazoa,Arthropoda,129
+Sesquiterpenoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],126
+Tryptophan alkaloids,Eukaryota,Fungi,Basidiomycota,126
+Carotenoids (C40),Bacteria,Bacteria,Proteobacteria,121
+Sphingolipids,Eukaryota,Archaeplastida,Streptophyta,120
+Terphenyls,Eukaryota,Fungi,Ascomycota,118
+Nicotinic acid alkaloids,Bacteria,Bacteria,Actinobacteria,118
+Octadecanoids,Eukaryota,Archaeplastida,Streptophyta,118
+Diterpenoids,Eukaryota,Metazoa,Arthropoda,117
+Fatty Acids and Conjugates,Eukaryota,Fungi,Basidiomycota,117
+Miscellaneous polyketides,Eukaryota,Fungi,Ascomycota,116
+Tryptophan alkaloids,Bacteria,Bacteria,Cyanobacteria,114
+Triterpenoids,Eukaryota,Metazoa,Echinodermata,114
+Fatty esters,Eukaryota,Fungi,Ascomycota,112
+Small peptides,Eukaryota,Metazoa,Nematoda,108
+Fatty acyls,Eukaryota,Archaeplastida,Rhodophyta,108
+Lysine alkaloids,Bacteria,Bacteria,Actinobacteria,107
+Aromatic polyketides,Eukaryota,Fungi,Basidiomycota,107
+Cyclic polyketides,Eukaryota,Fungi,Basidiomycota,106
+Peptide alkaloids,Bacteria,Bacteria,Proteobacteria,105
+Monoterpenoids,Eukaryota,Metazoa,Arthropoda,104
+Macrolides,Eukaryota,Metazoa,Porifera,104
+Fatty acyls,Eukaryota,Metazoa,Chordata,103
+Fatty acyls,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],101
+Nucleosides,Bacteria,Bacteria,Proteobacteria,101
+Sesquiterpenoids,Eukaryota,Metazoa,Arthropoda,100
+Oligopeptides,Eukaryota,Fungi,Basidiomycota,99
+Pseudoalkaloids,Bacteria,Bacteria,Actinobacteria,98
+Nicotinic acid alkaloids,Eukaryota,Metazoa,Porifera,98
+Carotenoids (C40),Eukaryota,Metazoa,Mollusca,97
+Sesterterpenoids,Eukaryota,Fungi,Ascomycota,97
+Steroids,Eukaryota,Metazoa,Arthropoda,97
+Monoterpenoids,Eukaryota,Archaeplastida,Rhodophyta,95
+Fatty Acids and Conjugates,Eukaryota,Metazoa,Nematoda,92
+Flavonoids,Eukaryota,Fungi,Ascomycota,92
+Fatty acyl glycosides,Eukaryota,Archaeplastida,Streptophyta,92
+Polycyclic aromatic polyketides,Eukaryota,Fungi,Basidiomycota,91
+Lignans,Eukaryota,Fungi,Ascomycota,91
+Fatty Acids and Conjugates,Bacteria,Bacteria,Proteobacteria,90
+Pseudoalkaloids,Eukaryota,Metazoa,Chordata,90
+Lysine alkaloids,Eukaryota,Metazoa,Arthropoda,89
+Phenolic acids (C6-C1),Bacteria,Bacteria,Actinobacteria,89
+Anthranilic acid alkaloids,Bacteria,Bacteria,Proteobacteria,88
+Diazotetronic acids and derivatives,Eukaryota,Fungi,Ascomycota,88
+Isoflavonoids,Bacteria,Bacteria,Actinobacteria,87
+Ornithine alkaloids,Eukaryota,Metazoa,Arthropoda,87
+Nucleosides,Eukaryota,Metazoa,Chordata,85
+Steroids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],84
+Fatty acyls,Bacteria,Bacteria,Actinobacteria,84
+Fatty acyls,Eukaryota,Fungi,Basidiomycota,84
+Pseudoalkaloids,Eukaryota,Metazoa,Porifera,84
+Nucleosides,Eukaryota,Archaeplastida,Streptophyta,83
+Monoterpenoids,Eukaryota,Fungi,Ascomycota,83
+Macrolides,Bacteria,Bacteria,Cyanobacteria,83
+Aminosugars and aminoglycosides,Bacteria,Bacteria,Actinobacteria,82
+Coumarins,Bacteria,Bacteria,Actinobacteria,81
+Ornithine alkaloids,Bacteria,Bacteria,Actinobacteria,81
+Proline alkaloids,Bacteria,Bacteria,Actinobacteria,80
+Phenolic acids (C6-C1),Eukaryota,Fungi,Basidiomycota,79
+Ornithine alkaloids,Bacteria,Bacteria,Proteobacteria,77
+Small peptides,Bacteria,Bacteria,Firmicutes,77
+Ornithine alkaloids,Eukaryota,Metazoa,Porifera,76
+Proline alkaloids,Eukaryota,Metazoa,Porifera,76
+Sphingolipids,Eukaryota,Metazoa,Porifera,76
+Linear polyketides,Bacteria,Bacteria,Cyanobacteria,75
+Sphingolipids,Eukaryota,Metazoa,Echinodermata,74
+Pseudoalkaloids,Eukaryota,Fungi,Basidiomycota,72
+Aminosugars and aminoglycosides,Bacteria,Bacteria,Proteobacteria,71
+Alkylresorcinols,Bacteria,Bacteria,Cyanobacteria,70
+Steroids,Eukaryota,Archaeplastida,Rhodophyta,70
+Fatty esters,Bacteria,Bacteria,Proteobacteria,70
+Eicosanoids,Eukaryota,Metazoa,Chordata,69
+Lysine alkaloids,Eukaryota,Metazoa,Porifera,68
+Oligopeptides,Eukaryota,Metazoa,Mollusca,67
+Histidine alkaloids,Eukaryota,Archaeplastida,Streptophyta,67
+Linear polyketides,Eukaryota,Metazoa,Mollusca,65
+Macrolides,Eukaryota,Archaeplastida,Streptophyta,65
+Fatty esters,Eukaryota,Metazoa,Arthropoda,65
+Isoflavonoids,Eukaryota,Fungi,Ascomycota,64
+Steroids,Eukaryota,Metazoa,Metazoa [no phylum],63
+Triterpenoids,Eukaryota,Metazoa,Arthropoda,63
+Fatty Acids and Conjugates,Eukaryota,Metazoa,Arthropoda,62
+Pseudoalkaloids,Bacteria,Bacteria,Proteobacteria,62
+Guanidine alkaloids,Eukaryota,Metazoa,Porifera,62
+Steroids,Eukaryota,Metazoa,Mollusca,61
+Tyrosine alkaloids,Eukaryota,Metazoa,Chordata,61
+Meroterpenoids,Bacteria,Bacteria,Actinobacteria,61
+Saccharides,Eukaryota,Metazoa,Chordata,61
+β-lactams,Bacteria,Bacteria,Actinobacteria,61
+Diterpenoids,Eukaryota,Metazoa,Chordata,60
+Fatty Acids and Conjugates,Eukaryota,Archaeplastida,Rhodophyta,60
+Monoterpenoids,Eukaryota,Fungi,Basidiomycota,60
+Lysine alkaloids,Eukaryota,Fungi,Ascomycota,60
+Small peptides,Bacteria,Bacteria,Cyanobacteria,59
+Lysine alkaloids,Eukaryota,Metazoa,Chordata,58
+Tetramate alkaloids,Bacteria,Bacteria,Actinobacteria,58
+Eicosanoids,Eukaryota,Metazoa,Cnidaria,57
+Flavonoids,Bacteria,Bacteria,Actinobacteria,56
+Phenylpropanoids (C6-C3),Eukaryota,Fungi,Ascomycota,56
+Histidine alkaloids,Eukaryota,Metazoa,Chordata,56
+Small peptides,Eukaryota,Metazoa,Porifera,54
+Carotenoids (C40),Eukaryota,Archaeplastida,Chlorophyta,54
+Saccharides,Eukaryota,Fungi,Ascomycota,54
+Steroids,Eukaryota,Archaeplastida,Chlorophyta,53
+Fatty amides,Bacteria,Bacteria,Proteobacteria,53
+Aromatic polyketides,Bacteria,Bacteria,Actinobacteria,53
+Styrylpyrones,Eukaryota,Fungi,Basidiomycota,53
+Tyrosine alkaloids,Bacteria,Bacteria,Actinobacteria,53
+Steroids,Bacteria,Bacteria,Actinobacteria,52
+Fatty amides,Bacteria,Bacteria,Actinobacteria,52
+Oligopeptides,Eukaryota,Metazoa,Arthropoda,51
+Meroterpenoids,Eukaryota,Metazoa,Porifera,51
+Peptide alkaloids,Eukaryota,Metazoa,Porifera,50
+Diterpenoids,Eukaryota,Archaeplastida,Chlorophyta,50
+Nucleosides,Eukaryota,Fungi,Ascomycota,49
+Steroids,Eukaryota,Fungi,Fungi [no phylum],49
+Sphingolipids,Eukaryota,Fungi,Ascomycota,49
+Monoterpenoids,Bacteria,Bacteria,Actinobacteria,49
+Cyclic polyketides,Eukaryota,Metazoa,Mollusca,49
+Pseudoalkaloids,Eukaryota,Metazoa,Arthropoda,48
+Sphingolipids,Eukaryota,Fungi,Basidiomycota,48
+Cyclic polyketides,Bacteria,Bacteria,Proteobacteria,48
+Carotenoids (C40),Eukaryota,Metazoa,Arthropoda,47
+Saccharides,Eukaryota,Fungi,Basidiomycota,47
+Triterpenoids,Bacteria,Bacteria,Actinobacteria,47
+Small peptides,Eukaryota,Metazoa,Arthropoda,47
+Fatty Acids and Conjugates,Eukaryota,Metazoa,Echinodermata,47
+Chromanes,Bacteria,Bacteria,Actinobacteria,47
+Fatty esters,Eukaryota,Fungi,Basidiomycota,46
+Carotenoids (C40),Eukaryota,Metazoa,Chordata,46
+Tyrosine alkaloids,Eukaryota,Metazoa,Porifera,46
+Coumarins,Eukaryota,Fungi,Basidiomycota,46
+Carotenoids (C40),Eukaryota,Fungi,Ascomycota,46
+Fatty Acids and Conjugates,Eukaryota,Fungi,Fungi [no phylum],45
+Saccharides,Eukaryota,Metazoa,Nematoda,45
+Octadecanoids,Eukaryota,Fungi,Ascomycota,45
+Diazotetronic acids and derivatives,Eukaryota,Fungi,Basidiomycota,45
+Fatty esters,Bacteria,Bacteria,Actinobacteria,45
+Macrolides,Bacteria,Bacteria,Firmicutes,45
+Diazotetronic acids and derivatives,Eukaryota,Metazoa,Chordata,44
+Nucleosides,Eukaryota,Metazoa,Nematoda,44
+Histidine alkaloids,Eukaryota,Fungi,Ascomycota,44
+Triterpenoids,Eukaryota,Archaeplastida,Chlorophyta,42
+Fatty Acids and Conjugates,Eukaryota,Archaeplastida,Chlorophyta,42
+Triterpenoids,Bacteria,Bacteria,Proteobacteria,42
+Meroterpenoids,Eukaryota,Metazoa,Chordata,42
+Diphenyl ethers (DPEs),Eukaryota,Metazoa,Porifera,41
+Ornithine alkaloids,Eukaryota,Fungi,Ascomycota,40
+Sesterterpenoids,Eukaryota,Metazoa,Mollusca,39
+Polyethers,Eukaryota,Archaeplastida,Rhodophyta,39
+Apocarotenoids,Eukaryota,Fungi,Ascomycota,39
+Fatty Acids and Conjugates,Eukaryota,Metazoa,Mollusca,39
+Nicotinic acid alkaloids,Bacteria,Bacteria,Proteobacteria,38
+Meroterpenoids,Eukaryota,Metazoa,Cnidaria,38
+Ornithine alkaloids,Eukaryota,Metazoa,Chordata,38
+Polyethers,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],38
+Peptide alkaloids,Eukaryota,Metazoa,Chordata,38
+Tryptophan alkaloids,Eukaryota,Metazoa,Bryozoa,38
+Anthranilic acid alkaloids,Eukaryota,Fungi,Basidiomycota,37
+Peptide alkaloids,Eukaryota,Fungi,Basidiomycota,37
+Naphthalenes,Eukaryota,Fungi,Basidiomycota,37
+Aromatic polyketides,Eukaryota,Metazoa,Arthropoda,37
+Phenolic acids (C6-C1),Bacteria,Bacteria,Proteobacteria,37
+Meroterpenoids,Bacteria,Bacteria,Proteobacteria,37
+Glycerophospholipids,Bacteria,Bacteria,Actinobacteria,37
+Tetramate alkaloids,Eukaryota,Archaeplastida,Streptophyta,36
+Tryptophan alkaloids,Eukaryota,Metazoa,Arthropoda,36
+Carotenoids (C40),Eukaryota,Metazoa,Porifera,35
+Tryptophan alkaloids,Eukaryota,Other eukaryotes,Amoebozoa,35
+Eicosanoids,Eukaryota,Archaeplastida,Rhodophyta,35
+Terphenyls,Eukaryota,Archaeplastida,Streptophyta,35
+Carotenoids (C40),Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],34
+Glycerophospholipids,Eukaryota,Archaeplastida,Streptophyta,34
+Nicotinic acid alkaloids,Eukaryota,Metazoa,Chordata,34
+Fatty acyls,Bacteria,Bacteria,Proteobacteria,34
+Miscellaneous polyketides,Eukaryota,Fungi,Basidiomycota,34
+Glycerolipids,Bacteria,Bacteria,Cyanobacteria,33
+Mycosporine derivatives,Bacteria,Bacteria,Cyanobacteria,33
+Sesquiterpenoids,Eukaryota,Archaeplastida,Chlorophyta,33
+Phenylpropanoids (C6-C3),Eukaryota,Fungi,Basidiomycota,32
+Sesterterpenoids,Eukaryota,Archaeplastida,Streptophyta,32
+Sphingolipids,Eukaryota,Metazoa,Chordata,32
+Phenylpropanoids (C6-C3),Bacteria,Bacteria,Actinobacteria,32
+Phenolic acids (C6-C1),Eukaryota,Metazoa,Chordata,32
+Flavonoids,Eukaryota,Fungi,Basidiomycota,32
+Serine alkaloids,Bacteria,Bacteria,Actinobacteria,31
+Phloroglucinols,Eukaryota,Fungi,Ascomycota,31
+Sphingolipids,Eukaryota,Metazoa,Cnidaria,31
+Aminosugars and aminoglycosides,Eukaryota,Archaeplastida,Streptophyta,31
+Phenylpropanoids (C6-C3),Eukaryota,Metazoa,Arthropoda,31
+Polyols,Eukaryota,Archaeplastida,Streptophyta,30
+Histidine alkaloids,Bacteria,Bacteria,Actinobacteria,30
+Glycerolipids,Bacteria,Bacteria,Actinobacteria,30
+Monoterpenoids,Eukaryota,Metazoa,Chordata,30
+Small peptides,Eukaryota,Archaeplastida,Rhodophyta,30
+Sphingolipids,Eukaryota,Metazoa,Metazoa [no phylum],30
+Peptide alkaloids,Bacteria,Bacteria,Cyanobacteria,30
+Nicotinic acid alkaloids,Eukaryota,Fungi,Basidiomycota,30
+Small peptides,Eukaryota,Archaeplastida,Chlorophyta,30
+Polyprenols,Eukaryota,Fungi,Basidiomycota,29
+Nicotinic acid alkaloids,Eukaryota,Metazoa,Arthropoda,29
+Tryptophan alkaloids,Eukaryota,Fungi,Fungi [no phylum],29
+Tetramate alkaloids,Bacteria,Bacteria,Proteobacteria,29
+Polycyclic aromatic polyketides,Eukaryota,Metazoa,Echinodermata,29
+Eicosanoids,Eukaryota,Archaeplastida,Streptophyta,29
+Carotenoids (C40),Eukaryota,Metazoa,Echinodermata,29
+Anthranilic acid alkaloids,Eukaryota,Metazoa,Chordata,28
+Steroids,Eukaryota,Metazoa,Bryozoa,28
+Polyethers,Eukaryota,Metazoa,Mollusca,28
+Carotenoids (C40),Bacteria,Bacteria,Actinobacteria,28
+Macrolides,Eukaryota,Metazoa,Mollusca,28
+Pseudoalkaloids,Eukaryota,Metazoa,Cnidaria,28
+Phenolic acids (C6-C1),Eukaryota,Metazoa,Arthropoda,28
+Glycerolipids,Eukaryota,Metazoa,Porifera,28
+Miscellaneous polyketides,Eukaryota,Archaeplastida,Streptophyta,28
+Naphthalenes,Eukaryota,Metazoa,Porifera,27
+Fatty Acids and Conjugates,Bacteria,Bacteria,Firmicutes,27
+Aromatic polyketides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],27
+Carotenoids (C40),Bacteria,Bacteria,Cyanobacteria,27
+Serine alkaloids,Bacteria,Bacteria,Proteobacteria,27
+Coumarins,Bacteria,Bacteria,Firmicutes,27
+Small peptides,Eukaryota,Metazoa,Mollusca,27
+Proline alkaloids,Bacteria,Bacteria,Proteobacteria,27
+Sesquiterpenoids,Bacteria,Bacteria,Proteobacteria,27
+Fatty Acids and Conjugates,Eukaryota,Metazoa,Cnidaria,26
+Pseudoalkaloids,Eukaryota,Metazoa,Nematoda,26
+Lignans,Eukaryota,Fungi,Basidiomycota,26
+Tryptophan alkaloids,Eukaryota,Metazoa,Cnidaria,26
+Fatty amides,Eukaryota,Metazoa,Chordata,26
+Fatty Acids and Conjugates,Eukaryota,Metazoa,Annelida,26
+Triterpenoids,Eukaryota,Metazoa,Metazoa [no phylum],26
+Tetramate alkaloids,Eukaryota,Metazoa,Porifera,26
+Linear polyketides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],26
+Isoflavonoids,Eukaryota,Metazoa,Arthropoda,26
+Aminosugars and aminoglycosides,Eukaryota,Metazoa,Chordata,25
+Diterpenoids,Eukaryota,Fungi,Fungi [no phylum],25
+Naphthalenes,Eukaryota,Metazoa,Echinodermata,25
+Small peptides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],25
+Tryptophan alkaloids,Eukaryota,Archaeplastida,Rhodophyta,25
+Sphingolipids,Eukaryota,Metazoa,Arthropoda,25
+Macrolides,Eukaryota,Metazoa,Chordata,25
+Saccharides,Bacteria,Bacteria,Cyanobacteria,25
+Tryptophan alkaloids,Bacteria,Bacteria,Firmicutes,25
+Proline alkaloids,Eukaryota,Archaeplastida,Streptophyta,24
+Oligopeptides,Bacteria,Bacteria,Bacteroidetes,24
+Fatty esters,Eukaryota,Metazoa,Porifera,24
+Fatty Acids and Conjugates,Bacteria,Bacteria,Cyanobacteria,24
+Guanidine alkaloids,Bacteria,Bacteria,Cyanobacteria,23
+Octadecanoids,Eukaryota,Fungi,Basidiomycota,23
+Triterpenoids,Eukaryota,Metazoa,Chordata,23
+Carotenoids (C40),Eukaryota,Fungi,Basidiomycota,23
+Monoterpenoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],23
+Polycyclic aromatic polyketides,Eukaryota,Metazoa,Arthropoda,23
+Cyclic polyketides,Eukaryota,Metazoa,Porifera,23
+Tyrosine alkaloids,Eukaryota,Metazoa,Arthropoda,22
+Tetramate alkaloids,Eukaryota,Metazoa,Chordata,22
+Fatty Acids and Conjugates,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],22
+Histidine alkaloids,Eukaryota,Metazoa,Cnidaria,22
+Saccharides,Bacteria,Bacteria,Firmicutes,22
+Aromatic polyketides,Eukaryota,Metazoa,Porifera,22
+Linear polyketides,Eukaryota,Metazoa,Cnidaria,21
+Histidine alkaloids,Bacteria,Bacteria,Proteobacteria,21
+Naphthalenes,Eukaryota,Other eukaryotes,Amoebozoa,21
+Meroterpenoids,Eukaryota,Metazoa,Arthropoda,21
+Saccharides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],21
+Tropolones,Eukaryota,Fungi,Ascomycota,21
+Fatty acyls,Eukaryota,Archaeplastida,Chlorophyta,21
+Phenylpropanoids (C6-C3),Eukaryota,Metazoa,Chordata,21
+Fatty amides,Bacteria,Bacteria,Bacteroidetes,21
+Proline alkaloids,Eukaryota,Metazoa,Chordata,21
+Terphenyls,Bacteria,Bacteria,Actinobacteria,21
+Flavonoids,Eukaryota,Metazoa,Chordata,21
+Saccharides,Eukaryota,Archaeplastida,Rhodophyta,21
+Glycerophospholipids,Eukaryota,Metazoa,Porifera,20
+Tyrosine alkaloids,Eukaryota,Fungi,Ascomycota,20
+Saccharides,Eukaryota,Metazoa,Arthropoda,20
+Flavonoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],20
+Tryptophan alkaloids,Eukaryota,Metazoa,Mollusca,20
+Lysine alkaloids,Bacteria,Bacteria,Proteobacteria,20
+Carotenoids (C50),Bacteria,Bacteria,Actinobacteria,20
+Oligopeptides,Eukaryota,Fungi,Fungi [no phylum],20
+Pseudoalkaloids,Eukaryota,Metazoa,Hemichordata,20
+Phenylethanoids (C6-C2),Eukaryota,Fungi,Ascomycota,20
+Peptide alkaloids,Bacteria,Bacteria,Firmicutes,20
+Polyols,Eukaryota,Fungi,Ascomycota,20
+Naphthalenes,Eukaryota,Metazoa,Arthropoda,20
+Carotenoids (C40),Eukaryota,Other eukaryotes,Euglenida,20
+Carotenoids (C40),Bacteria,Bacteria,Bacteroidetes,20
+Macrolides,Eukaryota,Metazoa,Bryozoa,19
+Tryptophan alkaloids,Bacteria,Bacteria,Bacteroidetes,19
+Chromanes,Eukaryota,Fungi,Basidiomycota,19
+Phenylpropanoids (C6-C3),Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],19
+Steroids,Bacteria,Bacteria,Proteobacteria,19
+Ornithine alkaloids,Bacteria,Bacteria,Cyanobacteria,19
+Triterpenoids,Eukaryota,Metazoa,Mollusca,19
+Fatty acyls,Bacteria,Bacteria,Bacteroidetes,19
+Miscellaneous polyketides,Bacteria,Bacteria,Actinobacteria,19
+Apocarotenoids,Bacteria,Bacteria,Cyanobacteria,19
+Steroids,Eukaryota,Metazoa,Annelida,18
+Nucleosides,Bacteria,Bacteria,Firmicutes,18
+Fatty amides,Bacteria,Bacteria,Cyanobacteria,18
+Diphenyl ethers (DPEs),Eukaryota,Archaeplastida,Streptophyta,18
+Histidine alkaloids,Eukaryota,Metazoa,Mollusca,18
+Fatty esters,Bacteria,Bacteria,Cyanobacteria,18
+Nucleosides,Eukaryota,Fungi,Basidiomycota,18
+Fatty acyls,Eukaryota,Metazoa,Cnidaria,18
+Diterpenoids,Bacteria,Bacteria,Proteobacteria,18
+Macrolides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],18
+Coumarins,Bacteria,Bacteria,Proteobacteria,18
+Macrolides,Eukaryota,Fungi,Basidiomycota,18
+β-lactams,Eukaryota,Fungi,Ascomycota,18
+Ornithine alkaloids,Bacteria,Bacteria,Firmicutes,17
+Saccharides,Eukaryota,Archaeplastida,Chlorophyta,17
+Polyprenols,Eukaryota,Archaeplastida,Streptophyta,17
+Pseudoalkaloids,Eukaryota,Metazoa,Annelida,17
+Steroids,Eukaryota,Other eukaryotes,Euglenida,17
+Polyethers,Eukaryota,Other eukaryotes,Ciliophora,17
+Glycerolipids,Eukaryota,Archaeplastida,Chlorophyta,17
+Carotenoids (C40),Bacteria,Bacteria,Deinococcus-Thermus,17
+Glycerolipids,Eukaryota,Metazoa,Chordata,17
+Monoterpenoids,Bacteria,Bacteria,Proteobacteria,17
+Peptide alkaloids,Eukaryota,Metazoa,Arthropoda,16
+Tyrosine alkaloids,Eukaryota,Fungi,Basidiomycota,16
+Tetramate alkaloids,Eukaryota,Metazoa,Hemichordata,16
+Meroterpenoids,Eukaryota,Archaeplastida,Chlorophyta,16
+Flavonoids,Bacteria,Bacteria,Proteobacteria,16
+Ornithine alkaloids,Eukaryota,Metazoa,Mollusca,16
+Sesterterpenoids,Eukaryota,Metazoa,Arthropoda,16
+Apocarotenoids,Bacteria,Bacteria,Firmicutes,16
+Chromanes,Eukaryota,Metazoa,Chordata,16
+Triterpenoids,Bacteria,Bacteria,Cyanobacteria,16
+Polycyclic aromatic polyketides,Eukaryota,Metazoa,Cnidaria,16
+Coumarins,Eukaryota,Metazoa,Arthropoda,16
+Peptide alkaloids,Eukaryota,Metazoa,Hemichordata,16
+Glycerophospholipids,Eukaryota,Metazoa,Chordata,16
+Fluorenes,Eukaryota,Archaeplastida,Streptophyta,15
+Aromatic polyketides,Bacteria,Bacteria,Proteobacteria,15
+Diphenyl ethers (DPEs),Eukaryota,Fungi,Basidiomycota,15
+Xanthones,Eukaryota,Fungi,Basidiomycota,15
+Fatty acyl glycosides,Eukaryota,Metazoa,Porifera,15
+Polycyclic aromatic polyketides,Bacteria,Bacteria,Proteobacteria,15
+Polyethers,Eukaryota,Metazoa,Porifera,15
+Polyprenols,Eukaryota,Fungi,Ascomycota,15
+Nicotinic acid alkaloids,Eukaryota,Metazoa,Mollusca,15
+Linear polyketides,Eukaryota,Metazoa,Chordata,15
+Fatty esters,Eukaryota,Metazoa,Nematoda,15
+Nucleosides,Eukaryota,Metazoa,Porifera,14
+Triterpenoids,Bacteria,Bacteria,Firmicutes,14
+Sesquiterpenoids,Bacteria,Bacteria,Cyanobacteria,14
+Phenolic acids (C6-C1),Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],14
+Triterpenoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],14
+Monoterpenoids,Eukaryota,Metazoa,Cnidaria,14
+Octadecanoids,Eukaryota,Archaeplastida,Rhodophyta,14
+Aminosugars and aminoglycosides,Bacteria,Bacteria,Firmicutes,14
+Proline alkaloids,Eukaryota,Metazoa,Bryozoa,14
+Apocarotenoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],14
+Fatty esters,Bacteria,Bacteria,Firmicutes,14
+Glycerolipids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],14
+Serine alkaloids,Eukaryota,Metazoa,Porifera,14
+Sesterterpenoids,Bacteria,Bacteria,Actinobacteria,14
+Sesquiterpenoids,Eukaryota,Metazoa,Chordata,14
+Phenolic acids (C6-C1),Eukaryota,Archaeplastida,Rhodophyta,14
+Proline alkaloids,Eukaryota,Fungi,Ascomycota,13
+Tyrosine alkaloids,Eukaryota,Metazoa,Mollusca,13
+Monoterpenoids,Eukaryota,Metazoa,Mollusca,13
+Diterpenoids,Bacteria,Bacteria,Cyanobacteria,13
+Monoterpenoids,Eukaryota,Metazoa,Porifera,13
+Linear polyketides,Eukaryota,Fungi,Basidiomycota,13
+Linear polyketides,Bacteria,Bacteria,Firmicutes,13
+Small peptides,Eukaryota,Metazoa,Echinodermata,13
+Nicotinic acid alkaloids,Eukaryota,Metazoa,Nematoda,13
+Meroterpenoids,Eukaryota,Metazoa,Mollusca,13
+Cyclic polyketides,Bacteria,Bacteria,Cyanobacteria,13
+Tropolones,Bacteria,Bacteria,Proteobacteria,13
+Polyols,Eukaryota,Metazoa,Chordata,13
+Linear polyketides,Eukaryota,Archaeplastida,Rhodophyta,12
+Peptide alkaloids,Eukaryota,Metazoa,Cnidaria,12
+γ-lactam-β-lactones,Bacteria,Bacteria,Actinobacteria,12
+Tyrosine alkaloids,Bacteria,Bacteria,Proteobacteria,12
+Eicosanoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],12
+Anthranilic acid alkaloids,Eukaryota,Metazoa,Porifera,12
+Tetramate alkaloids,Eukaryota,Metazoa,Arthropoda,12
+Sesquiterpenoids,Eukaryota,Fungi,Fungi [no phylum],12
+Triterpenoids,Eukaryota,Fungi,Fungi [no phylum],12
+Carotenoids (C40),Eukaryota,Archaeplastida,Rhodophyta,12
+Ornithine alkaloids,Eukaryota,Archaeplastida,Rhodophyta,12
+Proline alkaloids,Eukaryota,Metazoa,Mollusca,12
+Apocarotenoids,Eukaryota,Fungi,Basidiomycota,12
+Phenolic acids (C6-C1),Eukaryota,Fungi,Fungi [no phylum],12
+Guanidine alkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],12
+Fatty amides,Eukaryota,Fungi,Ascomycota,11
+Fatty acyl glycosides,Eukaryota,Fungi,Basidiomycota,11
+Fatty acyl glycosides,Eukaryota,Fungi,Ascomycota,11
+Fatty acyls,Bacteria,Bacteria,Cyanobacteria,11
+Triterpenoids,Eukaryota,Metazoa,Cnidaria,11
+Terphenyls,Eukaryota,Other eukaryotes,Amoebozoa,11
+Linear polyketides,Eukaryota,Archaeplastida,Chlorophyta,11
+Ornithine alkaloids,Eukaryota,Metazoa,Nematoda,11
+Carotenoids (C40),Eukaryota,Metazoa,Annelida,11
+Polyols,Bacteria,Bacteria,Firmicutes,11
+Fatty amides,Eukaryota,Metazoa,Porifera,11
+Fatty esters,Eukaryota,Metazoa,Mollusca,11
+Polyols,Bacteria,Bacteria,Proteobacteria,11
+Glycerolipids,Eukaryota,Fungi,Basidiomycota,11
+Fatty acyls,Eukaryota,Metazoa,Annelida,11
+Fatty esters,Eukaryota,Archaeplastida,Rhodophyta,10
+Coumarins,Eukaryota,Metazoa,Chordata,10
+Polyprenols,Bacteria,Bacteria,Proteobacteria,10
+Ornithine alkaloids,Bacteria,Bacteria,Deinococcus-Thermus,10
+Aromatic polyketides,Eukaryota,Archaeplastida,Rhodophyta,10
+Proline alkaloids,Eukaryota,Fungi,Basidiomycota,10
+Carotenoids (C40),Bacteria,Bacteria,Firmicutes,10
+Sesterterpenoids,Eukaryota,Fungi,Basidiomycota,10
+Polycyclic aromatic polyketides,Eukaryota,Metazoa,Metazoa [no phylum],10
+Stilbenoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],10
+Linear polyketides,Eukaryota,Metazoa,Arthropoda,10
+Meroterpenoids,Eukaryota,Archaeplastida,Rhodophyta,10
+Macrolides,Eukaryota,Fungi,Fungi [no phylum],10
+Stilbenoids,Bacteria,Bacteria,Actinobacteria,10
+Xanthones,Bacteria,Bacteria,Actinobacteria,10
+Pseudoalkaloids,Bacteria,Bacteria,Cyanobacteria,10
+Triterpenoids,Eukaryota,Other eukaryotes,Foraminifera,10
+Pseudoalkaloids,Eukaryota,Archaeplastida,Chlorophyta,10
+Nucleosides,Eukaryota,Metazoa,Arthropoda,10
+Tropolones,Bacteria,Bacteria,Actinobacteria,10
+Triterpenoids,Eukaryota,Other eukaryotes,Bacillariophyta,10
+Mycosporine derivatives,Eukaryota,Fungi,Ascomycota,10
+Diphenyl ethers (DPEs),Eukaryota,Archaeplastida,Rhodophyta,10
+Glycerolipids,Eukaryota,Metazoa,Nematoda,10
+Polyethers,Eukaryota,Archaeplastida,Streptophyta,9
+Terphenyls,Eukaryota,Metazoa,Porifera,9
+Apocarotenoids,Eukaryota,Metazoa,Chordata,9
+Apocarotenoids,Eukaryota,Archaeplastida,Chlorophyta,9
+Fatty esters,Eukaryota,Metazoa,Cnidaria,9
+Monoterpenoids,Eukaryota,Metazoa,Bryozoa,9
+Glycerophospholipids,Bacteria,Bacteria,Proteobacteria,9
+Linear polyketides,Eukaryota,Other eukaryotes,Amoebozoa,9
+Phenylpropanoids (C6-C3),Eukaryota,Archaeplastida,Rhodophyta,9
+Carotenoids (C40),Eukaryota,Other eukaryotes,Bacillariophyta,9
+Carotenoids (C40),Eukaryota,Fungi,Fungi [no phylum],9
+Nucleosides,Eukaryota,Metazoa,Echinodermata,9
+Tryptophan alkaloids,Eukaryota,Archaeplastida,Chlorophyta,9
+Aminosugars and aminoglycosides,Eukaryota,Fungi,Ascomycota,9
+Pseudoalkaloids,Archaea,Archaea,Euryarchaeota,9
+Fatty acyl glycosides,Bacteria,Bacteria,Cyanobacteria,9
+Steroids,Eukaryota,Metazoa,Nematoda,9
+Sphingolipids,Bacteria,Bacteria,Bacteroidetes,9
+Naphthalenes,Eukaryota,Metazoa,Metazoa [no phylum],9
+Sphingolipids,Bacteria,Bacteria,Proteobacteria,9
+Fatty acyl glycosides,Bacteria,Bacteria,Actinobacteria,9
+Fatty Acids and Conjugates,Archaea,Archaea,Euryarchaeota,9
+Cyclic polyketides,Eukaryota,Other eukaryotes,Amoebozoa,9
+Phenylpropanoids (C6-C3),Eukaryota,Metazoa,Porifera,9
+Histidine alkaloids,Eukaryota,Metazoa,Arthropoda,8
+Stilbenoids,Bacteria,Bacteria,Proteobacteria,8
+Serine alkaloids,Bacteria,Bacteria,Cyanobacteria,8
+Fatty amides,Eukaryota,Fungi,Basidiomycota,8
+Oligopeptides,Eukaryota,Archaeplastida,Chlorophyta,8
+Chromanes,Bacteria,Bacteria,Proteobacteria,8
+Nucleosides,Eukaryota,Archaeplastida,Chlorophyta,8
+Carotenoids (C40),Eukaryota,Metazoa,Metazoa [no phylum],8
+Fatty esters,Eukaryota,Archaeplastida,Chlorophyta,8
+Ornithine alkaloids,Eukaryota,Fungi,Basidiomycota,8
+Lignans,Bacteria,Bacteria,Actinobacteria,8
+Apocarotenoids,Eukaryota,Metazoa,Arthropoda,8
+Steroids,Eukaryota,Other eukaryotes,Amoebozoa,8
+Macrolides,Eukaryota,Archaeplastida,Rhodophyta,8
+Cyclic polyketides,Eukaryota,Metazoa,Chordata,8
+Ornithine alkaloids,Eukaryota,Metazoa,Bryozoa,8
+Fatty acyl glycosides,Bacteria,Bacteria,Proteobacteria,8
+Diterpenoids,Eukaryota,Other eukaryotes,Bacillariophyta,8
+Coumarins,Eukaryota,Archaeplastida,Rhodophyta,8
+Steroids,Eukaryota,Metazoa,Platyhelminthes,8
+Guanidine alkaloids,Eukaryota,Metazoa,Chordata,8
+Cyclic polyketides,Eukaryota,Metazoa,Arthropoda,8
+Alkylresorcinols,Bacteria,Bacteria,Actinobacteria,8
+Guanidine alkaloids,Eukaryota,Metazoa,Mollusca,8
+Phloroglucinols,Eukaryota,Fungi,Basidiomycota,8
+Oligopeptides,Eukaryota,Metazoa,Nematoda,8
+Tryptophan alkaloids,Eukaryota,Metazoa,Nematoda,8
+Lignans,Eukaryota,Metazoa,Arthropoda,8
+Flavonoids,Eukaryota,Metazoa,Porifera,7
+Terphenyls,Bacteria,Bacteria,Proteobacteria,7
+Apocarotenoids,Bacteria,Bacteria,Actinobacteria,7
+Isoflavonoids,Eukaryota,Fungi,Basidiomycota,7
+Aromatic polyketides,Bacteria,Bacteria,Cyanobacteria,7
+Sphingolipids,Bacteria,Bacteria,Actinobacteria,7
+Glycerolipids,Eukaryota,Archaeplastida,Rhodophyta,7
+Serine alkaloids,Bacteria,Bacteria,Firmicutes,7
+Sphingolipids,Eukaryota,Archaeplastida,Rhodophyta,7
+Peptide alkaloids,Eukaryota,Other eukaryotes,Amoebozoa,7
+Carotenoids (C50),Archaea,Archaea,Euryarchaeota,7
+Lignans,Bacteria,Bacteria,Firmicutes,7
+Pseudoalkaloids,Eukaryota,Metazoa,Mollusca,7
+Peptide alkaloids,Bacteria,Bacteria,Bacteroidetes,7
+Small peptides,Bacteria,Bacteria,Bacteroidetes,7
+Miscellaneous alkaloids,Eukaryota,Fungi,Basidiomycota,7
+β-lactams,Bacteria,Bacteria,Bacteroidetes,7
+Fatty esters,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],7
+Steroids,Eukaryota,Other eukaryotes,Bacillariophyta,7
+Flavonoids,Eukaryota,Fungi,Glomeromycota,7
+Phenylpropanoids (C6-C3),Bacteria,Bacteria,Proteobacteria,7
+Phenolic acids (C6-C1),Eukaryota,Archaeplastida,Chlorophyta,7
+Phenolic acids (C6-C1),Eukaryota,Metazoa,Nematoda,7
+Miscellaneous alkaloids,Bacteria,Bacteria,Proteobacteria,7
+Docosanoids,Eukaryota,Metazoa,Chordata,7
+Styrylpyrones,Eukaryota,Fungi,Ascomycota,7
+Polyethers,Eukaryota,Metazoa,Chordata,7
+Chromanes,Eukaryota,Metazoa,Porifera,7
+Steroids,Bacteria,Bacteria,Cyanobacteria,7
+Phenanthrenoids,Eukaryota,Fungi,Ascomycota,7
+Meroterpenoids,Bacteria,Bacteria,Firmicutes,7
+Anthranilic acid alkaloids,Eukaryota,Metazoa,Arthropoda,7
+Nucleosides,Eukaryota,Metazoa,Mollusca,7
+Terphenyls,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],7
+Fatty acyls,Eukaryota,Metazoa,Mollusca,7
+Sphingolipids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],7
+Mitomycin derivatives,Bacteria,Bacteria,Actinobacteria,7
+Phenylethanoids (C6-C2),Bacteria,Bacteria,Proteobacteria,7
+Glycerolipids,Eukaryota,Metazoa,Cnidaria,7
+Polyprenols,Eukaryota,Metazoa,Chordata,6
+Naphthalenes,Bacteria,Bacteria,Proteobacteria,6
+Miscellaneous alkaloids,Bacteria,Bacteria,Actinobacteria,6
+Octadecanoids,Bacteria,Bacteria,Cyanobacteria,6
+Fatty acyls,Eukaryota,Metazoa,Nematoda,6
+Pseudoalkaloids,Eukaryota,Other eukaryotes,Amoebozoa,6
+β-lactams,Eukaryota,Archaeplastida,Streptophyta,6
+Pseudoalkaloids,Eukaryota,Other eukaryotes,Euglenida,6
+Diterpenoids,Bacteria,Bacteria,Bacteroidetes,6
+Chromanes,Eukaryota,Metazoa,Metazoa [no phylum],6
+Apocarotenoids,Eukaryota,Archaeplastida,Rhodophyta,6
+Diazotetronic acids and derivatives,Bacteria,Bacteria,Cyanobacteria,6
+Glycerolipids,Eukaryota,Fungi,Ascomycota,6
+Fatty amides,Eukaryota,Metazoa,Nematoda,6
+Small peptides,Eukaryota,Metazoa,Cnidaria,6
+Nicotinic acid alkaloids,Eukaryota,Archaeplastida,Rhodophyta,6
+Eicosanoids,Eukaryota,Metazoa,Porifera,6
+Anthranilic acid alkaloids,Bacteria,Bacteria,Firmicutes,6
+Polycyclic aromatic polyketides,Eukaryota,Metazoa,Chordata,6
+Phenolic acids (C6-C1),Eukaryota,Metazoa,Porifera,6
+Aminosugars and aminoglycosides,Eukaryota,Metazoa,Nematoda,6
+Carotenoids (C40),Bacteria,Bacteria,Chlorobi,6
+Diazotetronic acids and derivatives,Bacteria,Bacteria,Proteobacteria,6
+Polyols,Eukaryota,Fungi,Basidiomycota,6
+Mycosporine derivatives,Eukaryota,Metazoa,Cnidaria,6
+Nucleosides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],6
+Flavonoids,Eukaryota,Metazoa,Cnidaria,6
+Guanidine alkaloids,Eukaryota,Metazoa,Metazoa [no phylum],6
+Apocarotenoids,Eukaryota,Fungi,Fungi [no phylum],6
+Flavonoids,Eukaryota,Archaeplastida,Rhodophyta,6
+Tetramate alkaloids,Eukaryota,Metazoa,Cnidaria,6
+Polycyclic aromatic polyketides,Eukaryota,Other eukaryotes,Ciliophora,6
+Sesquiterpenoids,Bacteria,Bacteria,Bacteroidetes,6
+Glycerolipids,Eukaryota,Other eukaryotes,Amoebozoa,6
+Diterpenoids,Bacteria,Bacteria,Firmicutes,6
+Anthranilic acid alkaloids,Eukaryota,Other eukaryotes,Amoebozoa,6
+Meroterpenoids,Bacteria,Bacteria,Cyanobacteria,6
+Histidine alkaloids,Eukaryota,Metazoa,Nematoda,6
+Lysine alkaloids,Eukaryota,Fungi,Basidiomycota,6
+Apocarotenoids,Eukaryota,Metazoa,Mollusca,5
+Mycosporine derivatives,Eukaryota,Metazoa,Echinodermata,5
+Diazotetronic acids and derivatives,Eukaryota,Archaeplastida,Streptophyta,5
+Fatty Acids and Conjugates,Eukaryota,Other eukaryotes,Bacillariophyta,5
+Naphthalenes,Bacteria,Bacteria,Firmicutes,5
+Apocarotenoids,Eukaryota,Metazoa,Cnidaria,5
+Carotenoids (C40),Eukaryota,Metazoa,Cnidaria,5
+Naphthalenes,Eukaryota,Metazoa,Cnidaria,5
+Aromatic polyketides,Eukaryota,Metazoa,Nematoda,5
+Chromanes,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],5
+Sesquiterpenoids,Eukaryota,Other eukaryotes,Ciliophora,5
+Eicosanoids,Eukaryota,Fungi,Ascomycota,5
+Glycerolipids,Eukaryota,Metazoa,Arthropoda,5
+Tryptophan alkaloids,Eukaryota,Other eukaryotes,Ciliophora,5
+Octadecanoids,Eukaryota,Archaeplastida,Chlorophyta,5
+Pseudoalkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],5
+Glycerophospholipids,Archaea,Archaea,Euryarchaeota,5
+Tyrosine alkaloids,Eukaryota,Metazoa,Nematoda,5
+Histidine alkaloids,Eukaryota,Fungi,Basidiomycota,5
+Polyethers,Bacteria,Bacteria,Firmicutes,5
+Saccharides,Eukaryota,Metazoa,Porifera,5
+Stilbenoids,Eukaryota,Fungi,Ascomycota,5
+Mycosporine derivatives,Eukaryota,Metazoa,Mollusca,5
+Aromatic polyketides,Eukaryota,Other eukaryotes,Amoebozoa,5
+Phenolic acids (C6-C1),Bacteria,Bacteria,Firmicutes,5
+Tetramate alkaloids,Eukaryota,Fungi,Basidiomycota,5
+Apocarotenoids,Eukaryota,Metazoa,Porifera,5
+Phenylethanoids (C6-C2),Bacteria,Bacteria,Bacteroidetes,5
+Fatty Acids and Conjugates,Eukaryota,Other eukaryotes,Amoebozoa,5
+Oligopeptides,Eukaryota,Archaeplastida,Rhodophyta,5
+Aminosugars and aminoglycosides,Eukaryota,Metazoa,Arthropoda,5
+Sesterterpenoids,Bacteria,Bacteria,Proteobacteria,5
+Chromanes,Eukaryota,Metazoa,Echinodermata,5
+Phenanthrenoids,Eukaryota,Metazoa,Chordata,5
+Small peptides,Eukaryota,Metazoa,Metazoa [no phylum],5
+Fatty amides,Bacteria,Bacteria,Firmicutes,5
+Fatty acyls,Eukaryota,Metazoa,Echinodermata,5
+Guanidine alkaloids,Eukaryota,Metazoa,Arthropoda,5
+Guanidine alkaloids,Eukaryota,Metazoa,Echinodermata,5
+Sesquiterpenoids,Eukaryota,Metazoa,Nematoda,5
+Fatty acyls,Eukaryota,Other eukaryotes,Bacillariophyta,5
+Sesterterpenoids,Eukaryota,Archaeplastida,Chlorophyta,5
+Coumarins,Eukaryota,Metazoa,Cnidaria,5
+Linear polyketides,Bacteria,Bacteria,Bacteroidetes,5
+Linear polyketides,Eukaryota,Fungi,Fungi [no phylum],5
+Octadecanoids,Eukaryota,Metazoa,Chordata,5
+Phloroglucinols,Bacteria,Bacteria,Proteobacteria,5
+Nucleosides,Bacteria,Bacteria,Cyanobacteria,4
+Macrolides,Eukaryota,Other eukaryotes,Amoebozoa,4
+Coumarins,Eukaryota,Fungi,Fungi [no phylum],4
+Phenylpropanoids (C6-C3),Eukaryota,Metazoa,Nematoda,4
+Diarylheptanoids,Eukaryota,Fungi,Basidiomycota,4
+Meroterpenoids,Archaea,Archaea,Euryarchaeota,4
+Miscellaneous polyketides,Eukaryota,Metazoa,Arthropoda,4
+Phenanthrenoids,Eukaryota,Archaeplastida,Rhodophyta,4
+Tryptophan alkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],4
+Polyethers,Bacteria,Bacteria,Proteobacteria,4
+Nicotinic acid alkaloids,Eukaryota,Archaeplastida,Chlorophyta,4
+Tyrosine alkaloids,Bacteria,Bacteria,Bacteria [no phylum],4
+Eicosanoids,Eukaryota,Metazoa,Mollusca,4
+Monoterpenoids,Eukaryota,Other eukaryotes,Ciliophora,4
+Apocarotenoids,Bacteria,Bacteria,Proteobacteria,4
+Fatty Acids and Conjugates,Eukaryota,Metazoa,Platyhelminthes,4
+Glycerolipids,Eukaryota,Metazoa,Mollusca,4
+Anthranilic acid alkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],4
+Diterpenoids,Eukaryota,Metazoa,Nematoda,4
+Eicosanoids,Eukaryota,Other eukaryotes,Bacillariophyta,4
+Linear polyketides,Eukaryota,Metazoa,Bryozoa,4
+Pseudoalkaloids,Eukaryota,Fungi,Fungi [no phylum],4
+Tetramate alkaloids,Bacteria,Bacteria,Bacteroidetes,4
+Carotenoids (C40),Eukaryota,Other eukaryotes,Cryptophyceae,4
+Histidine alkaloids,Bacteria,Bacteria,Cyanobacteria,4
+Fatty acyls,Eukaryota,Metazoa,Metazoa [no phylum],4
+Glycerolipids,Bacteria,Bacteria,Firmicutes,4
+Phloroglucinols,Eukaryota,Other eukaryotes,Amoebozoa,4
+Polyethers,Eukaryota,Other eukaryotes,Bacillariophyta,4
+Naphthalenes,Bacteria,Bacteria,Cyanobacteria,4
+Tetramate alkaloids,Bacteria,Bacteria,Firmicutes,4
+Polycyclic aromatic polyketides,Bacteria,Bacteria,Firmicutes,4
+Anthranilic acid alkaloids,Eukaryota,Metazoa,Bryozoa,4
+Coumarins,Eukaryota,Metazoa,Porifera,4
+Monoterpenoids,Bacteria,Bacteria,Bacteroidetes,4
+Glycerolipids,Eukaryota,Metazoa,Brachiopoda,4
+Glycerophospholipids,Eukaryota,Metazoa,Annelida,4
+Phenylethanoids (C6-C2),Eukaryota,Fungi,Basidiomycota,4
+Ornithine alkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],4
+Styrylpyrones,Bacteria,Bacteria,Firmicutes,4
+Monoterpenoids,Eukaryota,Archaeplastida,Chlorophyta,4
+Cyclic polyketides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],4
+Ornithine alkaloids,Eukaryota,Metazoa,Metazoa [no phylum],4
+Phenanthrenoids,Bacteria,Bacteria,Actinobacteria,4
+Small peptides,Eukaryota,Other eukaryotes,Amoebozoa,4
+Nucleosides,Eukaryota,Metazoa,Cnidaria,4
+Macrolides,Eukaryota,Metazoa,Arthropoda,4
+Fatty acyls,Bacteria,Bacteria,Firmicutes,4
+Oligopeptides,Eukaryota,Metazoa,Echinodermata,4
+Coumarins,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],4
+Apocarotenoids,Bacteria,Bacteria,Verrucomicrobia,4
+Polycyclic aromatic polyketides,Eukaryota,Archaeplastida,Rhodophyta,4
+Guanidine alkaloids,Bacteria,Bacteria,Proteobacteria,4
+Histidine alkaloids,Bacteria,Bacteria,Firmicutes,3
+Ornithine alkaloids,Eukaryota,Metazoa,Echinodermata,3
+Fatty amides,Eukaryota,Metazoa,Arthropoda,3
+Cyclic polyketides,Bacteria,Bacteria,Bacteria [no phylum],3
+Cyclic polyketides,Bacteria,Bacteria,Firmicutes,3
+Fatty esters,Bacteria,Bacteria,Bacteroidetes,3
+Octadecanoids,Bacteria,Bacteria,Actinobacteria,3
+Diterpenoids,Eukaryota,Metazoa,Bryozoa,3
+Stilbenoids,Eukaryota,Metazoa,Arthropoda,3
+Flavonoids,Bacteria,Bacteria,Firmicutes,3
+Nicotinic acid alkaloids,Eukaryota,Metazoa,Bryozoa,3
+Phenylethanoids (C6-C2),Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],3
+Phenylpropanoids (C6-C3),Bacteria,Bacteria,Firmicutes,3
+Fluorenes,Bacteria,Bacteria,Cyanobacteria,3
+Triterpenoids,Eukaryota,Other eukaryotes,Amoebozoa,3
+Polyethers,Eukaryota,Metazoa,Cnidaria,3
+Lysine alkaloids,Eukaryota,Metazoa,Mollusca,3
+Histidine alkaloids,Eukaryota,Metazoa,Bryozoa,3
+Fatty amides,Eukaryota,Metazoa,Cnidaria,3
+Diphenyl ethers (DPEs),Bacteria,Bacteria,Proteobacteria,3
+Phloroglucinols,Bacteria,Bacteria,Actinobacteria,3
+Polycyclic aromatic polyketides,Bacteria,Bacteria,Bacteroidetes,3
+Guanidine alkaloids,Bacteria,Bacteria,Actinobacteria,3
+Lignans,Eukaryota,Metazoa,Porifera,3
+Miscellaneous polyketides,Eukaryota,Metazoa,Nematoda,3
+Phenolic acids (C6-C1),Eukaryota,Metazoa,Mollusca,3
+Meroterpenoids,Eukaryota,Other eukaryotes,Euglenida,3
+Nicotinic acid alkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],3
+Fatty acyl glycosides,Bacteria,Bacteria,Firmicutes,3
+Diterpenoids,Bacteria,Bacteria,Chloroflexi,3
+Carotenoids (C40),Archaea,Archaea,Crenarchaeota,3
+Nicotinic acid alkaloids,Eukaryota,Fungi,Fungi [no phylum],3
+β-lactams,Bacteria,Bacteria,Proteobacteria,3
+Fatty acyls,Eukaryota,Fungi,Fungi [no phylum],3
+Apocarotenoids,Bacteria,Bacteria,Bacteroidetes,3
+Phenanthrenoids,Bacteria,Bacteria,Proteobacteria,3
+Aromatic polyketides,Eukaryota,Archaeplastida,Chlorophyta,3
+Amino acid glycosides,Eukaryota,Metazoa,Nematoda,3
+Peptide alkaloids,Eukaryota,Metazoa,Bryozoa,3
+Phenylpropanoids (C6-C3),Eukaryota,Other eukaryotes,Amoebozoa,3
+Small peptides,Eukaryota,Fungi,Fungi [no phylum],3
+Nicotinic acid alkaloids,Eukaryota,Metazoa,Cnidaria,3
+Sesterterpenoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],3
+Tyrosine alkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],3
+Ornithine alkaloids,Eukaryota,Archaeplastida,Chlorophyta,3
+Nicotinic acid alkaloids,Bacteria,Bacteria,Bacteroidetes,3
+Glycerolipids,Archaea,Archaea,Euryarchaeota,3
+Polyols,Eukaryota,Metazoa,Arthropoda,3
+Sesquiterpenoids,Eukaryota,Other eukaryotes,Amoebozoa,3
+Flavonoids,Bacteria,Bacteria,Cyanobacteria,3
+Nicotinic acid alkaloids,Bacteria,Bacteria,Cyanobacteria,3
+Macrolides,Eukaryota,Metazoa,Cnidaria,3
+Phenylpropanoids (C6-C3),Eukaryota,Archaeplastida,Chlorophyta,3
+Phenylethanoids (C6-C2),Eukaryota,Metazoa,Arthropoda,3
+Small peptides,Eukaryota,Other eukaryotes,Euglenida,3
+Mycosporine derivatives,Eukaryota,Metazoa,Porifera,3
+Phloroglucinols,Eukaryota,Archaeplastida,Rhodophyta,3
+Peptide alkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],3
+Fatty acyl glycosides,Eukaryota,Metazoa,Arthropoda,3
+Flavonoids,Eukaryota,Fungi,Fungi [no phylum],3
+Polycyclic aromatic polyketides,Eukaryota,Metazoa,Bryozoa,3
+Meroterpenoids,Bacteria,Bacteria,Bacteroidetes,3
+Aromatic polyketides,Bacteria,Bacteria,Bacteroidetes,3
+Octadecanoids,Eukaryota,Other eukaryotes,Bacillariophyta,3
+Oligopeptides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],3
+Monoterpenoids,Bacteria,Bacteria,Cyanobacteria,3
+Pseudoalkaloids,Eukaryota,Metazoa,Echinodermata,3
+Fatty amides,Eukaryota,Archaeplastida,Chlorophyta,3
+Phenanthrenoids,Eukaryota,Metazoa,Arthropoda,3
+Tyrosine alkaloids,Bacteria,Bacteria,Cyanobacteria,3
+Phenylpropanoids (C6-C3),Bacteria,Bacteria,Bacteroidetes,3
+Saccharides,Eukaryota,Fungi,Fungi [no phylum],3
+Polycyclic aromatic polyketides,Bacteria,Bacteria,Cyanobacteria,3
+Sphingolipids,Eukaryota,Metazoa,Mollusca,3
+Diphenyl ethers (DPEs),Bacteria,Bacteria,Actinobacteria,3
+Saccharides,Eukaryota,Metazoa,Echinodermata,3
+Miscellaneous alkaloids,Eukaryota,Fungi,Ascomycota,3
+Lysine alkaloids,Bacteria,Bacteria,Firmicutes,3
+Tryptophan alkaloids,Eukaryota,Metazoa,Hemichordata,3
+Naphthalenes,Eukaryota,Metazoa,Chordata,3
+Glycerophospholipids,Eukaryota,Archaeplastida,Rhodophyta,3
+Anthranilic acid alkaloids,Eukaryota,Metazoa,Cnidaria,3
+Saccharides,Eukaryota,Metazoa,Mollusca,3
+β-lactams,Eukaryota,Fungi,Basidiomycota,3
+Coumarins,Eukaryota,Metazoa,Mollusca,3
+Monoterpenoids,Eukaryota,Other eukaryotes,Amoebozoa,3
+Xanthones,Bacteria,Bacteria,Proteobacteria,2
+Apocarotenoids,Eukaryota,Metazoa,Echinodermata,2
+Lysine alkaloids,Eukaryota,Other eukaryotes,Amoebozoa,2
+Pseudoalkaloids,Bacteria,Bacteria,Firmicutes,2
+Coumarins,Eukaryota,Other eukaryotes,Ciliophora,2
+Lysine alkaloids,Eukaryota,Metazoa,Nematoda,2
+Glycerolipids,Eukaryota,Other eukaryotes,Bacillariophyta,2
+Polyols,Eukaryota,Archaeplastida,Rhodophyta,2
+Tyrosine alkaloids,Eukaryota,Metazoa,Cnidaria,2
+Phenylpropanoids (C6-C3),Bacteria,Bacteria,Cyanobacteria,2
+Naphthalenes,Bacteria,Bacteria,Bacteroidetes,2
+Phenylethanoids (C6-C2),Bacteria,Bacteria,Actinobacteria,2
+Small peptides,Eukaryota,Metazoa,Platyhelminthes,2
+Peptide alkaloids,Eukaryota,Archaeplastida,Chlorophyta,2
+Isoflavonoids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],2
+Terphenyls,Eukaryota,Archaeplastida,Chlorophyta,2
+Lysine alkaloids,Bacteria,Bacteria,Cyanobacteria,2
+Miscellaneous polyketides,Eukaryota,Metazoa,Mollusca,2
+Sesterterpenoids,Bacteria,Bacteria,Cyanobacteria,2
+Aromatic polyketides,Eukaryota,Archaeplastida,Archaeplastida [no phylum],2
+Diarylheptanoids,Eukaryota,Fungi,Ascomycota,2
+Cyclic polyketides,Eukaryota,Other eukaryotes,Ciliophora,2
+Glycerophospholipids,Bacteria,Bacteria,Firmicutes,2
+Peptide alkaloids,Eukaryota,Metazoa,Nematoda,2
+Octadecanoids,Eukaryota,Metazoa,Arthropoda,2
+Triterpenoids,Eukaryota,Archaeplastida,Rhodophyta,2
+Tryptophan alkaloids,Eukaryota,Metazoa,Platyhelminthes,2
+Macrolides,Bacteria,Bacteria,Bacteroidetes,2
+Phenolic acids (C6-C1),Bacteria,Bacteria,Bacteroidetes,2
+Mycosporine derivatives,Eukaryota,Metazoa,Arthropoda,2
+Fatty Acids and Conjugates,Bacteria,Bacteria,Bacteroidetes,2
+Tyrosine alkaloids,Eukaryota,Archaeplastida,Rhodophyta,2
+Aromatic polyketides,Eukaryota,Metazoa,Chordata,2
+Naphthalenes,Eukaryota,Metazoa,Mollusca,2
+Polyols,Eukaryota,Metazoa,Nematoda,2
+Chromanes,Eukaryota,Archaeplastida,Rhodophyta,2
+Eicosanoids,Bacteria,Bacteria,Actinobacteria,2
+Phenolic acids (C6-C1),Eukaryota,Metazoa,Cnidaria,2
+Stilbenoids,Eukaryota,Fungi,Basidiomycota,2
+Fatty acyls,Eukaryota,Metazoa,Bryozoa,2
+Glycerolipids,Bacteria,Bacteria,Proteobacteria,2
+Naphthalenes,Eukaryota,Fungi,Fungi [no phylum],2
+Anthranilic acid alkaloids,Eukaryota,Archaeplastida,Chlorophyta,2
+Naphthalenes,Archaea,Archaea,Euryarchaeota,2
+Miscellaneous alkaloids,Eukaryota,Archaeplastida,Streptophyta,2
+Aminosugars and aminoglycosides,Bacteria,Bacteria,Cyanobacteria,2
+Pseudoalkaloids,Eukaryota,Other eukaryotes,Ciliophora,2
+Flavonoids,Eukaryota,Metazoa,Nematoda,2
+Carotenoids (C45),Bacteria,Bacteria,Actinobacteria,2
+Fatty esters,Eukaryota,Other eukaryotes,Amoebozoa,2
+Meroterpenoids,Archaea,Archaea,Crenarchaeota,2
+Phenylpropanoids (C6-C3),Eukaryota,Metazoa,Mollusca,2
+Phenolic acids (C6-C1),Bacteria,Bacteria,Cyanobacteria,2
+Lysine alkaloids,Eukaryota,Metazoa,Cnidaria,2
+Anthranilic acid alkaloids,Eukaryota,Archaeplastida,Rhodophyta,2
+Tryptophan alkaloids,Archaea,Archaea,Crenarchaeota,2
+Diazotetronic acids and derivatives,Bacteria,Bacteria,Actinobacteria,2
+Diphenyl ethers (DPEs),Eukaryota,Metazoa,Chordata,2
+Lignans,Eukaryota,Metazoa,Chordata,2
+Tyrosine alkaloids,Eukaryota,Metazoa,Echinodermata,2
+Carotenoids (C50),Bacteria,Bacteria,Proteobacteria,2
+Peptide alkaloids,Eukaryota,Archaeplastida,Rhodophyta,2
+Sphingolipids,Eukaryota,Metazoa,Bryozoa,2
+Ornithine alkaloids,Bacteria,Bacteria,Bacteroidetes,2
+Apocarotenoids,Eukaryota,Other eukaryotes,Bacillariophyta,2
+Isoflavonoids,Eukaryota,Metazoa,Porifera,2
+Carotenoids (C50),Eukaryota,Metazoa,Chordata,2
+Carotenoids (C40),Archaea,Archaea,Euryarchaeota,2
+Aminosugars and aminoglycosides,Bacteria,Bacteria,Bacteroidetes,2
+Phenylpropanoids (C6-C3),Eukaryota,Metazoa,Echinodermata,2
+Fatty acyl glycosides,Eukaryota,Other eukaryotes,Amoebozoa,2
+Serine alkaloids,Eukaryota,Archaeplastida,Streptophyta,2
+Nicotinic acid alkaloids,Bacteria,Bacteria,Firmicutes,2
+Flavonoids,Eukaryota,Metazoa,Mollusca,2
+Nucleosides,Eukaryota,Metazoa,Annelida,2
+Tryptophan alkaloids,Bacteria,Bacteria,Bacteria [no phylum],2
+Tyrosine alkaloids,Eukaryota,Metazoa,Bryozoa,2
+Aminosugars and aminoglycosides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],2
+Peptide alkaloids,Eukaryota,Fungi,Fungi [no phylum],2
+Amino acid glycosides,Eukaryota,Metazoa,Arthropoda,2
+Aminosugars and aminoglycosides,Eukaryota,Fungi,Basidiomycota,2
+Mycosporine derivatives,Eukaryota,Metazoa,Chordata,2
+Cyclic polyketides,Eukaryota,Archaeplastida,Rhodophyta,2
+Nucleosides,Eukaryota,Archaeplastida,Rhodophyta,2
+Serine alkaloids,Eukaryota,Fungi,Ascomycota,2
+Sphingolipids,Bacteria,Bacteria,Cyanobacteria,2
+Sphingolipids,Eukaryota,Archaeplastida,Chlorophyta,2
+Phenanthrenoids,Eukaryota,Metazoa,Echinodermata,2
+Alkylresorcinols,Eukaryota,Archaeplastida,Streptophyta,2
+Flavonoids,Eukaryota,Metazoa,Annelida,2
+Lysine alkaloids,Eukaryota,Metazoa,Platyhelminthes,2
+Oligopeptides,Eukaryota,Metazoa,Annelida,2
+Pseudoalkaloids,Eukaryota,Archaeplastida,Rhodophyta,2
+Terphenyls,Bacteria,Bacteria,Firmicutes,2
+Histidine alkaloids,Eukaryota,Archaeplastida,Chlorophyta,2
+Flavonoids,Eukaryota,Other eukaryotes,Ciliophora,2
+Coumarins,Eukaryota,Other eukaryotes,Amoebozoa,2
+Anthranilic acid alkaloids,Bacteria,Bacteria,Bacteroidetes,2
+Diphenyl ethers (DPEs),Eukaryota,Metazoa,Mollusca,2
+Coumarins,Eukaryota,Fungi,Glomeromycota,2
+Tyrosine alkaloids,Eukaryota,Other eukaryotes,Amoebozoa,2
+Fatty esters,Bacteria,Bacteria,Bacteria [no phylum],2
+Cyclic polyketides,Eukaryota,Fungi,Glomeromycota,2
+Tyrosine alkaloids,Eukaryota,Metazoa,Ctenophora,2
+Peptide alkaloids,Eukaryota,Metazoa,Mollusca,2
+Isoflavonoids,Eukaryota,Metazoa,Chordata,2
+Polyprenols,Bacteria,Bacteria,Actinobacteria,2
+Aromatic polyketides,Eukaryota,Other eukaryotes,Ciliophora,2
+Glycerophospholipids,Eukaryota,Metazoa,Nematoda,2
+Monoterpenoids,Eukaryota,Metazoa,Echinodermata,2
+Histidine alkaloids,Eukaryota,Archaeplastida,Rhodophyta,2
+Phloroglucinols,Eukaryota,Metazoa,Arthropoda,2
+Octadecanoids,Bacteria,Bacteria,Firmicutes,2
+Eicosanoids,Eukaryota,Archaeplastida,Chlorophyta,2
+Phenylethanoids (C6-C2),Eukaryota,Metazoa,Echinodermata,2
+Diphenyl ethers (DPEs),Bacteria,Bacteria,Cyanobacteria,2
+Anthranilic acid alkaloids,Eukaryota,Metazoa,Mollusca,2
+Triterpenoids,Eukaryota,Other eukaryotes,Cryptophyceae,1
+Tyrosine alkaloids,Bacteria,Bacteria,Firmicutes,1
+Anthranilic acid alkaloids,Eukaryota,Metazoa,Echinodermata,1
+Fatty acyls,Eukaryota,Other eukaryotes,Amoebozoa,1
+Apocarotenoids,Archaea,Archaea,Euryarchaeota,1
+Polyprenols,Eukaryota,Metazoa,Porifera,1
+Polyols,Bacteria,Bacteria,Cyanobacteria,1
+Isoflavonoids,Eukaryota,Metazoa,Nematoda,1
+Small peptides,Eukaryota,Metazoa,Bryozoa,1
+Octadecanoids,Eukaryota,Metazoa,Nematoda,1
+Isoflavonoids,Eukaryota,Metazoa,Cnidaria,1
+β-lactams,Bacteria,Bacteria,Cyanobacteria,1
+Aminosugars and aminoglycosides,Eukaryota,Metazoa,Porifera,1
+Pseudoalkaloids,Eukaryota,Metazoa,Bryozoa,1
+Glycerophospholipids,Bacteria,Bacteria,Bacteroidetes,1
+Histidine alkaloids,Archaea,Archaea,Euryarchaeota,1
+Monoterpenoids,Eukaryota,Metazoa,Nematoda,1
+Eicosanoids,Eukaryota,Metazoa,Nematoda,1
+Glycerophospholipids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],1
+Fatty amides,Eukaryota,Metazoa,Echinodermata,1
+Sesquiterpenoids,Eukaryota,Other eukaryotes,Bacillariophyta,1
+Carotenoids (C45),Archaea,Archaea,Euryarchaeota,1
+Polyprenols,Bacteria,Bacteria,Bacteroidetes,1
+Sphingolipids,Eukaryota,Metazoa,Nematoda,1
+Carotenoids (C50),Eukaryota,Metazoa,Porifera,1
+Steroids,Bacteria,Bacteria,Tenericutes,1
+Polyethers,Eukaryota,Archaeplastida,Chlorophyta,1
+Nicotinic acid alkaloids,Eukaryota,Metazoa,Metazoa [no phylum],1
+Oligopeptides,Eukaryota,Other eukaryotes,Amoebozoa,1
+β-lactams,Eukaryota,Archaeplastida,Rhodophyta,1
+Miscellaneous polyketides,Eukaryota,Metazoa,Chordata,1
+Mycosporine derivatives,Eukaryota,Archaeplastida,Rhodophyta,1
+Ornithine alkaloids,Eukaryota,Other eukaryotes,Amoebozoa,1
+Polyols,Archaea,Archaea,Crenarchaeota,1
+Tyrosine alkaloids,Eukaryota,Archaeplastida,Chlorophyta,1
+Guanidine alkaloids,Eukaryota,Metazoa,Nemertea,1
+Fatty Acids and Conjugates,Bacteria,Bacteria,Planctomycetes,1
+Diazotetronic acids and derivatives,Eukaryota,Archaeplastida,Rhodophyta,1
+Aromatic polyketides,Eukaryota,Metazoa,Annelida,1
+Proline alkaloids,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],1
+Tyrosine alkaloids,Bacteria,Bacteria,Bacteroidetes,1
+Aminosugars and aminoglycosides,Eukaryota,Metazoa,Mollusca,1
+Saccharides,Bacteria,Bacteria,Planctomycetes,1
+Stilbenoids,Bacteria,Bacteria,Cyanobacteria,1
+Diterpenoids,Eukaryota,Other eukaryotes,Amoebozoa,1
+Oligopeptides,Eukaryota,Metazoa,Cnidaria,1
+Diarylheptanoids,Eukaryota,Metazoa,Arthropoda,1
+Lysine alkaloids,Eukaryota,Metazoa,Bryozoa,1
+Lignans,Bacteria,Bacteria,Cyanobacteria,1
+Diphenyl ethers (DPEs),Eukaryota,Metazoa,Annelida,1
+Sesquiterpenoids,Eukaryota,Metazoa,Bryozoa,1
+Carotenoids (C40),Bacteria,Bacteria,Chloroflexi,1
+Aminosugars and aminoglycosides,Eukaryota,Archaeplastida,Rhodophyta,1
+Cyclic polyketides,Eukaryota,Metazoa,Annelida,1
+Naphthalenes,Eukaryota,Metazoa,Bryozoa,1
+Docosanoids,Eukaryota,Archaeplastida,Chlorophyta,1
+Aromatic polyketides,Eukaryota,Metazoa,Cnidaria,1
+Steroids,Bacteria,Bacteria,Spirochaetae,1
+Pseudoalkaloids,Bacteria,Bacteria,Deinococcus-Thermus,1
+Diarylheptanoids,Eukaryota,Archaeplastida,Chlorophyta,1
+Triterpenoids,Eukaryota,Metazoa,Nematoda,1
+Eicosanoids,Eukaryota,Metazoa,Arthropoda,1
+Linear polyketides,Eukaryota,Metazoa,Annelida,1
+Steroids,Eukaryota,Other eukaryotes,Cryptophyceae,1
+Guanidine alkaloids,Bacteria,Bacteria,Firmicutes,1
+Stilbenoids,Eukaryota,Metazoa,Chordata,1
+Macrolides,Eukaryota,Other eukaryotes,Ciliophora,1
+Monoterpenoids,Archaea,Archaea,Euryarchaeota,1
+Fatty amides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],1
+Aromatic polyketides,Eukaryota,Fungi,Glomeromycota,1
+Docosanoids,Eukaryota,Metazoa,Arthropoda,1
+Carotenoids (C45),Bacteria,Bacteria,Bacteroidetes,1
+Alkylresorcinols,Eukaryota,Fungi,Basidiomycota,1
+Meroterpenoids,Eukaryota,Metazoa,Nematoda,1
+Coumarins,Eukaryota,Metazoa,Nematoda,1
+Pseudoalkaloids,Bacteria,Bacteria,Chlorobi,1
+Steroids,Eukaryota,Other eukaryotes,Ciliophora,1
+Phenanthrenoids,Eukaryota,Metazoa,Porifera,1
+Linear polyketides,Bacteria,Bacteria,Chloroflexi,1
+Diarylheptanoids,Eukaryota,Metazoa,Mollusca,1
+Carotenoids (C40),Eukaryota,Archaeplastida,Archaeplastida [no phylum],1
+Octadecanoids,Bacteria,Bacteria,Planctomycetes,1
+Proline alkaloids,Eukaryota,Metazoa,Nematoda,1
+Proline alkaloids,Eukaryota,Metazoa,Arthropoda,1
+Phenylpropanoids (C6-C3),Eukaryota,Fungi,Fungi [no phylum],1
+Phenylethanoids (C6-C2),Bacteria,Bacteria,Firmicutes,1
+Nucleosides,Bacteria,Bacteria,Tenericutes,1
+Octadecanoids,Eukaryota,Metazoa,Porifera,1
+Isoflavonoids,Bacteria,Bacteria,Proteobacteria,1
+Polyols,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],1
+Polyprenols,Bacteria,Bacteria,Firmicutes,1
+Glycerophospholipids,Eukaryota,Metazoa,Mollusca,1
+Triterpenoids,Archaea,Archaea,Euryarchaeota,1
+Diarylheptanoids,Bacteria,Bacteria,Actinobacteria,1
+Anthranilic acid alkaloids,Eukaryota,Metazoa,Metazoa [no phylum],1
+Glycerolipids,Bacteria,Bacteria,Deinococcus-Thermus,1
+Diterpenoids,Archaea,Archaea,Crenarchaeota,1
+Isoflavonoids,Bacteria,Bacteria,Firmicutes,1
+Sesquiterpenoids,Eukaryota,Metazoa,Echinodermata,1
+Fatty acyl glycosides,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],1
+Saccharides,Archaea,Archaea,Euryarchaeota,1
+Sesquiterpenoids,Bacteria,Bacteria,Firmicutes,1
+Meroterpenoids,Eukaryota,Other eukaryotes,Bacillariophyta,1
+Anthranilic acid alkaloids,Eukaryota,Metazoa,Nematoda,1
+Diphenyl ethers (DPEs),Eukaryota,Metazoa,Hemichordata,1
+Glycerolipids,Bacteria,Bacteria,Bacteria [no phylum],1
+Phenanthrenoids,Eukaryota,Fungi,Basidiomycota,1
+Miscellaneous polyketides,Bacteria,Bacteria,Cyanobacteria,1
+Small peptides,Bacteria,Bacteria,Chloroflexi,1
+Aminosugars and aminoglycosides,Bacteria,Bacteria,Deinococcus-Thermus,1
+Docosanoids,Eukaryota,Archaeplastida,Streptophyta,1
+Linear polyketides,Eukaryota,Other eukaryotes,Ciliophora,1
+Saccharides,Bacteria,Bacteria,Tenericutes,1
+Eicosanoids,Bacteria,Bacteria,Firmicutes,1
+β-lactams,Bacteria,Bacteria,Firmicutes,1
+Docosanoids,Eukaryota,Archaeplastida,Rhodophyta,1
+Ornithine alkaloids,Archaea,Archaea,Euryarchaeota,1
+Flavonoids,Eukaryota,Archaeplastida,Chlorophyta,1
+Histidine alkaloids,Eukaryota,Fungi,Fungi [no phylum],1
+Eicosanoids,Eukaryota,Fungi,Fungi [no phylum],1
+Tetramate alkaloids,Eukaryota,Archaeplastida,Rhodophyta,1
+Apocarotenoids,Eukaryota,Metazoa,Metazoa [no phylum],1
+Pseudoalkaloids,Eukaryota,Other eukaryotes,Cryptophyceae,1
+Chromanes,Eukaryota,Metazoa,Cnidaria,1
+Lignans,Eukaryota,Metazoa,Nematoda,1
+Tryptophan alkaloids,Archaea,Archaea,Euryarchaeota,1
+Phenanthrenoids,Bacteria,Bacteria,Cyanobacteria,1
+Terphenyls,Bacteria,Bacteria,Cyanobacteria,1
+Serine alkaloids,Eukaryota,Metazoa,Arthropoda,1
+Nicotinic acid alkaloids,Eukaryota,Metazoa,Nemertea,1
+Phenylethanoids (C6-C2),Eukaryota,Metazoa,Porifera,1
+Amino acid glycosides,Eukaryota,Metazoa,Chordata,1
+Peptide alkaloids,Bacteria,Bacteria,Chloroflexi,1
+Diphenyl ethers (DPEs),Eukaryota,Archaeplastida,Chlorophyta,1
+Meroterpenoids,Eukaryota,Other eukaryotes,Amoebozoa,1
+Lignans,Bacteria,Bacteria,Proteobacteria,1
+Pseudoalkaloids,Eukaryota,Other eukaryotes,Cercozoa,1
+Phenylpropanoids (C6-C3),Eukaryota,Metazoa,Cnidaria,1
+Sesterterpenoids,Eukaryota,Metazoa,Cnidaria,1
+Small peptides,Eukaryota,Metazoa,Annelida,1
+Coumarins,Bacteria,Bacteria,Cyanobacteria,1
+Meroterpenoids,Bacteria,Bacteria,Bacteria [no phylum],1
+Ornithine alkaloids,Eukaryota,Metazoa,Cnidaria,1
+Terphenyls,Eukaryota,Metazoa,Chordata,1
+Tetramate alkaloids,Eukaryota,Metazoa,Bryozoa,1
+Proline alkaloids,Eukaryota,Archaeplastida,Chlorophyta,1
+Monoterpenoids,Eukaryota,Fungi,Fungi [no phylum],1
+Oligopeptides,Eukaryota,Metazoa,Platyhelminthes,1
+Small peptides,Eukaryota,Other eukaryotes,Bacillariophyta,1
+Triterpenoids,Eukaryota,Other eukaryotes,Ciliophora,1
+Naphthalenes,Eukaryota,Metazoa,Annelida,1
+Miscellaneous polyketides,Eukaryota,Archaeplastida,Chlorophyta,1
+Meroterpenoids,Eukaryota,Metazoa,Echinodermata,1
+Fatty amides,Eukaryota,Archaeplastida,Rhodophyta,1
+Coumarins,Eukaryota,Archaeplastida,Chlorophyta,1
+Fatty Acids and Conjugates,Bacteria,Bacteria,Bacteria [no phylum],1
+Fatty acyl glycosides,Eukaryota,Archaeplastida,Chlorophyta,1
+Stilbenoids,Eukaryota,Metazoa,Cnidaria,1
+Steroids,Eukaryota,Other eukaryotes,Foraminifera,1
+Styrylpyrones,Bacteria,Bacteria,Proteobacteria,1
+Stilbenoids,Eukaryota,Archaeplastida,Rhodophyta,1
+Fluorenes,Eukaryota,Metazoa,Porifera,1
+Naphthalenes,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],1
+β-lactams,Eukaryota,Metazoa,Chordata,1
+Octadecanoids,Eukaryota,Other eukaryotes,Euglenida,1
+Monoterpenoids,Bacteria,Bacteria,Firmicutes,1
+Anthranilic acid alkaloids,Eukaryota,Fungi,Fungi [no phylum],1
+Polyprenols,Archaea,Archaea,Euryarchaeota,1
+Alkylresorcinols,Eukaryota,Fungi,Ascomycota,1
+Guanidine alkaloids,Eukaryota,Fungi,Ascomycota,1
+Aminosugars and aminoglycosides,Eukaryota,Archaeplastida,Chlorophyta,1
+Glycerophospholipids,Eukaryota,Archaeplastida,Chlorophyta,1
+Diterpenoids,Archaea,Archaea,Euryarchaeota,1
+Tropolones,Eukaryota,Archaeplastida,Streptophyta,1
+Aromatic polyketides,Eukaryota,Metazoa,Bryozoa,1
+Docosanoids,Eukaryota,Metazoa,Nematoda,1
+Fatty Acids and Conjugates,Eukaryota,Other eukaryotes,Apicomplexa,1
+Triterpenoids,Eukaryota,Metazoa,Bryozoa,1
+Ornithine alkaloids,Eukaryota,Other eukaryotes,Ciliophora,1
+Saccharides,Bacteria,Bacteria,Bacteria [no phylum],1
+Guanidine alkaloids,Eukaryota,Metazoa,Platyhelminthes,1
+Stilbenoids,Eukaryota,Metazoa,Nematoda,1
+Sphingolipids,Eukaryota,Fungi,Fungi [no phylum],1
+Tryptophan alkaloids,Eukaryota,Metazoa,Echinodermata,1
+Lignans,Eukaryota,Other eukaryotes,Other eukaryotes [no phylum],1
+Polycyclic aromatic polyketides,Eukaryota,Metazoa,Porifera,1
+Histidine alkaloids,Eukaryota,Metazoa,Echinodermata,1
+Styrylpyrones,Bacteria,Bacteria,Actinobacteria,1
+Lysine alkaloids,Eukaryota,Metazoa,Echinodermata,1

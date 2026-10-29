@@ -12,6 +12,3 @@ wheels/
 # Downloaded LOTUS export
 data/
 *.csv.gz
-
-# Generated figures and tables (rebuild with `uv run lotus-plots`)
-output/

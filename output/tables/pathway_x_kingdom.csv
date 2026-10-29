@@ -1,0 +1,42 @@
+npclassifier_pathway,domain,kingdom,molecules
+Terpenoids,Eukaryota,Archaeplastida,47612
+Shikimates and Phenylpropanoids,Eukaryota,Archaeplastida,25848
+Alkaloids,Eukaryota,Archaeplastida,12442
+Polyketides,Eukaryota,Fungi,8904
+Terpenoids,Eukaryota,Fungi,8375
+Terpenoids,Eukaryota,Metazoa,6823
+Polyketides,Bacteria,Bacteria,6618
+Polyketides,Eukaryota,Archaeplastida,6300
+Amino acids and Peptides,Bacteria,Bacteria,5347
+Fatty acids,Eukaryota,Archaeplastida,4880
+Alkaloids,Eukaryota,Fungi,3622
+Alkaloids,Bacteria,Bacteria,2908
+Amino acids and Peptides,Eukaryota,Fungi,2881
+Alkaloids,Eukaryota,Metazoa,2597
+Shikimates and Phenylpropanoids,Eukaryota,Fungi,2271
+Fatty acids,Eukaryota,Metazoa,2102
+Amino acids and Peptides,Eukaryota,Archaeplastida,1568
+Polyketides,Eukaryota,Metazoa,1223
+Terpenoids,Bacteria,Bacteria,1208
+Amino acids and Peptides,Eukaryota,Metazoa,1135
+Fatty acids,Eukaryota,Fungi,1025
+Fatty acids,Bacteria,Bacteria,939
+Carbohydrates,Bacteria,Bacteria,933
+Terpenoids,Eukaryota,Other eukaryotes,881
+Shikimates and Phenylpropanoids,Bacteria,Bacteria,772
+Shikimates and Phenylpropanoids,Eukaryota,Metazoa,649
+Carbohydrates,Eukaryota,Archaeplastida,515
+Polyketides,Eukaryota,Other eukaryotes,494
+Carbohydrates,Eukaryota,Metazoa,271
+Fatty acids,Eukaryota,Other eukaryotes,217
+Carbohydrates,Eukaryota,Fungi,179
+Shikimates and Phenylpropanoids,Eukaryota,Other eukaryotes,116
+Alkaloids,Eukaryota,Other eukaryotes,116
+Amino acids and Peptides,Eukaryota,Other eukaryotes,42
+Carbohydrates,Eukaryota,Other eukaryotes,33
+Terpenoids,Archaea,Archaea,26
+Alkaloids,Archaea,Archaea,18
+Fatty acids,Archaea,Archaea,17
+Amino acids and Peptides,Archaea,Archaea,4
+Carbohydrates,Archaea,Archaea,2
+Polyketides,Archaea,Archaea,2
